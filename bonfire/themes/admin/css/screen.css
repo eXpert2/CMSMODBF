@@ -1,0 +1,64 @@
+* {margin:0; padding:0;}
+html {height:100%;}
+body {height:100%; font:normal 62.5% tahoma,sans-serif; background-color:#F1EBDE; background:url(../images/body-bg.gif) repeat-y;}
+a:link, a:hover, a:visited, a:active {color:#333;}
+a:hover {color:#326782;}
+p {font-size:1.1em;}
+table {width:100%; border-top:1px solid #ECE9D8; border-right:1px solid #ECE9D8;}
+table table {font-size:.9em;}
+table img {padding:4px;}
+table thead, .tfoot {background:url(../images/thead-bg.gif) repeat-x; font-size:1em;}
+th {text-align:left; font-size:1.1em; font-weight:normal; padding:7px 8px 6px 8px; border:1px solid #ECE9D8; border-top:none; border-right:none;}
+td {padding:7px 8px 6px 8px; border:1px solid #ECE9D8; border-top:none; border-right:none; font-size:1.1em;}
+td.icon-inside {width:18px; padding:2px 1px 1px 1px; text-align:center;}
+select, input {border:1px solid #f2923f; }
+textarea {border:1px solid #f2923f; }
+textarea {padding:1px 2px; font:normal 1.1em tahoma,sans-serif;}
+input {padding:1px 2px; font:normal 1.1em tahoma,sans-serif;}
+input.button {font-size:1em;  padding:1px 2px 1px 2px; background-color:#F5F3E9; cursor:pointer;}
+select {width:10em; font-size: 8pt;}
+
+#container {position:relative; min-height:100%; min-width:768px; max-width:1280px;}
+#header {background:url(../images/header-bg.gif) repeat-x; height:123px;}
+	h1 {font-size:1.1em; padding:8px 0 8px 20px; float:left;}
+	h1 span {font-weight:normal;}
+	ul#lang {margin-right:26px; padding:7px 0; float:right;}
+	ul#lang li {display:inline; padding:0 6px;}
+	ul#nav {clear:both; height:32px; padding:0 0 0 12px; list-style:none;}
+	ul#nav li {width:auto; float:left; padding:8px 6px 2px 8px; background:url(../images/nav-items-hr.gif) 0 10px no-repeat;}
+	ul#nav li.nobg{background-image:none;}
+	ul#nav li span {color:#FFF1E2; font-size:1.3em;}
+	ul#nav li a {color:#FFF1E2; font-size:1.1em;} ul#nav li a:hover {color:#fff;}
+
+	img#nsign-header-logo {clear:both; float:left; margin-top:2px;}
+	p#site-adress{float:left; margin:18px 0 0 12px;}
+	div#options{float:right; height:57px; width:195px; padding:0; background:url(../images/options-bg.gif) 0 4px no-repeat;}
+	div#options ul {margin:0 12px 0 4px;}
+	div#options ul li {display:block; float:left; padding:0 0 0 6px; width:29%; margin-top:22px; text-align:right; list-style:none;}
+
+#wrapper{float:left; width:100%;}
+#content{margin-left:190px; background-color:#fff; padding:4px;}
+#sidebar{float:left; width:190px; margin-right:-100%; overflow:hidden;}
+	#menu a{font-size:1.1em;}
+	#menu ul{margin:4px 0 0 6px; list-style:none;}
+	#menu ul li {width:173px; height:22px; background:url(../images/menu-item-normal.gif) no-repeat; padding:4px 0 8px 14px; height:2%;}
+	#menu ul li.large { height:28px; background:url(../images/menu-item-normal-double-hei.gif) no-repeat;}
+	#menu ul li a{width:150px;display:block}
+	#menu ul ul {margin:0 0 8px 22px; padding:0;}
+	#menu ul ul li {background:url(../images/menu-bullet.gif) 0 8px no-repeat; padding:4px 0 0 11px; list-style:none; list-style-position:inside;}
+
+#footer {height:66px; position:relative; margin-top:-66px; background:url(../images/footer-bg.gif) repeat-x; clear:both;}
+	img#nsign-footer-logo {float:left;}
+	p#services {float:left; font-size:.9em; margin:18px 0 0 12px; padding:5px 0 0 0;}
+	p#telephone {float:right; height:39px; font-size:.9em; text-align:right; margin:18px 0 0 12px; padding:7px 0 0 20px; background:url(../images/footer-vertical-hr.gif) no-repeat;}
+	p#contacts {float:right; height:39px; font-size:.9em; margin:18px 0 0 12px; padding:5px 20px 0 20px; background:url(../images/footer-vertical-hr.gif) no-repeat;}
+
+/*#############################3*/
+fieldset select {
+	padding: 2px 2px 2px 5px;
+	width:63%;
+	border:1px solid #ddd;
+}
+fieldset select option  {
+    padding-left: 5px;
+}
