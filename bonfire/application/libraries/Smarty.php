@@ -10,7 +10,7 @@ class MY_Smarty extends Smarty {
 
 		$this->compile_dir = APPPATH . "tpl/compile";
 		$this->template_dir = APPPATH . "tpl/templates";
-
+        $this->php_handling =  parent::PHP_ALLOW;
 		$this->compile_check = true;
 		$this->debugging = false;
 		$this->caching = false;
@@ -91,9 +91,10 @@ class Smarty_Resource_Mysql extends Smarty_Resource_Custom {
      $query = $this->CI->db->query("SELECT `modified`, `tpl`  FROM `".$this->CI->db->dbprefix."tpls` WHERE `name` =?",array($name));
 	 $row = $query->first_row('array');
 
-
+     //echo  htmlspecialchars_decode($row['tpl']);
+     //exit;
      if ($row) {
-         $source = $row['tpl'];
+         $source = htmlspecialchars_decode($row['tpl']);
          $mtime = strtotime($row['modified']);
      } else {
          $source = null;

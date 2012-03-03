@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-02-26 14:29:06
+<?php /* Smarty version Smarty-3.1.7, created on 2012-03-04 02:59:28
          compiled from "db:index" */ ?>
 <?php /*%%SmartyHeaderCode:116754f4932d0e209b1-70896586%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '964cbe4867079da97672aa11fb0079ec6486222e' => 
     array (
       0 => 'db:index',
-      1 => 1330248544,
+      1 => 1330811950,
       2 => 'db',
     ),
   ),
@@ -106,39 +106,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 			<p class="intro">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	
-			<h3>What another framework?</h3>
-			<p>Lorem ipsum dolor sit amet, <a href="http://www.timbenniks.com">consectetur</a> adipisicing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-				
-			<hr />	
-				
-			<div class="at-50 item">
-				<div class="padding">
-
-					<h4>Testing 1</h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-				</div>
-			</div>
-			<div class="at-50 item">
-				<div class="padding last">
-					<h4>Testing 2</h4>
-
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-				</div>
-			</div>
+			<?php echo $_smarty_tpl->getSubTemplate ('db:dslist', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0);?>
+	
 			
-			<blockquote class="clear"><p>Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></blockquote>
-			
-			<h2>This is even better</h2>
-			<p class="intro">
-				This Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-			</p>
-
-			
-			<div class="button-wrap clearfix">
-				<button>I am a button</button>
-				<a class="button" href="#">I am a link with class button</a>
-			</div>
-			
+			<br><br>
 			<form method="post" action="">
 				<fieldset>
 					<h2>Form example</h2>
@@ -184,10 +155,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	<div id="sidebar" class="at-30">
 		<h1>Sidebar</h1>
 
-		<h2>A title in the sidebar</h2>
+		<h2><a href="/">Main Page</a></h2>
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 		
-		<h3>What a nice rhythm</h3>
+		<h2><a href="/page/about">About Page</a></h2>
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 		<hr />
@@ -223,4 +194,5 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 </div>
 
 </body>
-</html><?php }} ?>
+</html>
+<?php }} ?>

@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-02-26 14:28:18
+<?php /* Smarty version Smarty-3.1.7, created on 2012-03-04 02:59:25
          compiled from "db:common" */ ?>
 <?php /*%%SmartyHeaderCode:50204f49f281423b06-79244401%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'd9a27b128466fcb02786d5f7c80c8a4d449bdc74' => 
     array (
       0 => 'db:common',
-      1 => 1330248496,
+      1 => 1330811962,
       2 => 'db',
     ),
   ),
@@ -24,7 +24,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_4f49f2814822e')) {function content_4f49f2814822e($_smarty_tpl) {?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<?php if ($_valid && !is_callable('content_4f49f2814822e')) {function content_4f49f2814822e($_smarty_tpl) {?><?php if (!is_callable('smarty_function_assets')) include 'Y:\\home\\uz\\bonfire\\bonfire\\application\\third_party\\smarty\\plugins\\function.assets.php';
+?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
@@ -48,6 +49,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	<link href="<?php echo $_smarty_tpl->tpl_vars['THEME_PATH']->value;?>
 /lib/css/zp-ie.css" type="text/css" media="screen" rel="stylesheet" />
 	<![endif]-->
+	<?php echo smarty_function_assets(array('place'=>'header'),$_smarty_tpl);?>
+	
 
 	<style type="text/css">
 		body {
@@ -106,8 +109,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 			<p class="intro">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	
-			<h3>What another framework?</h3>
-			<p>Lorem ipsum dolor sit amet, adipisicing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			<?php echo $_smarty_tpl->getSubTemplate ('db:dslist', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0);?>
+
 			
 		</div>
 	</div>
@@ -115,14 +118,16 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	<div id="sidebar" class="at-30">
 		<h1>Sidebar</h1>
 
-		<h2>A title in the sidebar</h2>
+		<h2><a href="/">Main Page</a></h2>
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 		
-		<h3>What a nice rhythm</h3>
+		<h2><a href="/page/about">About Page</a></h2>
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 		
 	</div>
 </div>
+<?php echo smarty_function_assets(array('place'=>'footer'),$_smarty_tpl);?>
+	
 
 </body>
 </html><?php }} ?>

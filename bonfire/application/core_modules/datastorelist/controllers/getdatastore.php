@@ -18,8 +18,10 @@ class Getdatastore extends Base_Controller {
             $html .= "</div>";
          	break;
          	case"recordlist":
-         	case"form":
             $html = $this->_renderRecordListHtml($ds);
+         	break;
+         	case"form":
+            $html = $this->_renderRecordFormHtml($ds);
          	break;
          	case"field":
             $html = $this->_renderFieldHtml($ds);
@@ -84,6 +86,35 @@ class Getdatastore extends Base_Controller {
 	}
 
 	function _renderRecordListHtml($ds)
+	{
+		 $md5 = md5(time());
+		 $html = "";
+         $html .="<label for=\"extformtable_id_$ds->id\" class=\"block\">Выберите таблицу</label>";
+         $html .="<select size=\"1\" name=\"ds[$ds->id][extformtable_id]\" id=\"extformtable_id_$ds->id\">";
+
+		 $query = $this->db->query("select id,title from ".$this->db->dbprefix."extformtables order by title ASC");
+		 if($query->num_rows()>0)
+		 {
+         	foreach($query->result() as $k => $rec)
+         	{
+		 		if($ds->extformtable_id==$rec->id) $selected = " selected='selected' "; else $selected='';
+		 		$html .="<option value=\"{$rec->id}\" $selected >{$rec->title}</option>";
+		 	}
+		 }
+
+		 $html .="</select>";
+         $html .="<label class=\"block\"><b>Постраничная навигация</b></label><br />";
+		 $html .="<div><label for=\"ds_field_base_url_$ds->id\" class=\"block\">Базовое URL страницы</label>";
+         $html .="<input name=\"ds[$ds->id][base_url]\" id=\"ds_field_base_url_$ds->id\" value=\"{$ds->base_url}\" type=\"text\" ></div>";
+         $html .="<div><label for=\"ds_field_per_page_$ds->id\" class=\"block\">На странице записей</label>";
+         $html .="<input name=\"ds[$ds->id][per_page]\" id=\"ds_field_per_page_$ds->id\" value=\"{$ds->per_page}\" type=\"text\" ></div>";
+         $html .="<div><label for=\"ds_field_uri_segment_$ds->id\" class=\"block\">Сегмент URL</label>";
+         $html .="<input name=\"ds[$ds->id][uri_segment]\" id=\"ds_field_uri_segment_$ds->id\" value=\"{$ds->uri_segment}\" type=\"text\" ></div>";
+
+		 return $html;
+	}
+
+	function _renderRecordFormHtml($ds)
 	{
 		 $md5 = md5(time());
 		 $html = "";
