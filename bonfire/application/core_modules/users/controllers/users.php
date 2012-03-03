@@ -113,9 +113,11 @@ class Users extends Front_Controller {
 
 			}
 
-			Template::redirect('/');
-			//Template::set('page_title', 'Login');
-			//Template::render();
+			//Template::redirect('/home');
+			Assets::add_css(base_url() .'assets/js/extjs407/resources/css/ext-all.css','screen');
+	        Assets::add_css(base_url() .'assets/css/app.css','screen');
+			Template::set('page_title', 'Login');
+			Template::render();
 		}
 		else
 		{
