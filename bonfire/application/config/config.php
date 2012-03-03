@@ -20,8 +20,7 @@ $config['modules_locations'] = array(
 | path to your installation.
 |
 */
-//$config['base_url']	= 'https://system.nsign.ru/';
-$config['base_url']    = '';  
+$config['base_url']    = '';
 
 /*
 |--------------------------------------------------------------------------
