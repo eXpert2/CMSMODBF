@@ -51,3 +51,14 @@ ERROR - 2012-03-03 20:52:37 --> Severity: Notice  --> Use of undefined constant 
 ERROR - 2012-03-03 20:52:37 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\index.php 65
 ERROR - 2012-03-03 20:52:37 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\index.php 65
 ERROR - 2012-03-03 20:52:37 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\index.php 65
+ERROR - 2012-03-03 20:59:08 --> 404 Page Not Found --> 
+ERROR - 2012-03-03 20:59:10 --> 404 Page Not Found --> 
+ERROR - 2012-03-03 20:59:11 --> 404 Page Not Found --> 
+ERROR - 2012-03-03 20:59:19 --> 404 Page Not Found --> 
+ERROR - 2012-03-03 20:59:40 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\index.php 65
+ERROR - 2012-03-03 20:59:40 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\index.php 65
+ERROR - 2012-03-03 20:59:40 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\index.php 65
+ERROR - 2012-03-03 20:59:40 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\index.php 65
+ERROR - 2012-03-03 20:59:40 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\index.php 65
+ERROR - 2012-03-03 20:59:40 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\index.php 65
+ERROR - 2012-03-03 21:03:49 --> 404 Page Not Found --> 
