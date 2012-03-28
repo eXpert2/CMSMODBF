@@ -131,3 +131,4 @@ $lang['bf_context_settings']	= 'Настройки';
 $lang['bf_context_developer']	= 'Разработка';
 $lang['bf_context_infoblocks']    = 'Настройки форм';
 $lang['bf_context_analytics']    = 'Аналитика';
+$lang['bf_context_mydbase']     = 'База данных';

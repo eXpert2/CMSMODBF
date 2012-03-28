@@ -8,10 +8,10 @@
 	to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 	copies of the Software, and to permit persons to whom the Software is
 	furnished to do so, subject to the following conditions:
-	
+
 	The above copyright notice and this permission notice shall be included in
 	all copies or substantial portions of the Software.
-	
+
 	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 	FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -25,39 +25,39 @@ class Developer extends Admin_Controller {
 
 	//--------------------------------------------------------------------
 
-	public function __construct() 
+	public function __construct()
 	{
 		parent::__construct();
-		
-		$this->auth->restrict('Site.Developer.View');
-		
-		Template::set('toolbar_title', 'Developer Tools');
-	}
-	
-	//--------------------------------------------------------------------	
 
-	public function index() 
+		$this->auth->restrict('Site.Developer.View');
+
+		Template::set('toolbar_title', 'Разработка');
+	}
+
+	//--------------------------------------------------------------------
+
+	public function index()
 	{
 		$modules = module_list();
 		$configs = array();
-	
+
 		foreach ($modules as $module)
 		{
 			$configs[$module] = module_config($module);
-			
+
 			if (!isset($configs[$module]['name']))
 			{
 				$configs[$module]['name'] = ucwords($module);
 			}
 		}
-		
+
 		ksort($configs);
 		Template::set('modules', $configs);
-	
+
 		Template::set_view('admin/developer/index');
 		Template::render();
 	}
-	
+
 	//--------------------------------------------------------------------
-	
+
 }

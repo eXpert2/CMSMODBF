@@ -21,7 +21,7 @@
 	THE SOFTWARE.
 */
 
-$config['site.title'] = "SYSTEM";
+$config['site.title'] = "CMS Nsign";
 $config['site.system_email'] = "rrr99099@mail.ru";
 $config['site.status'] = 1;		// 0 = offline, 1 = online
 $config['site.list_limit'] = 25;
@@ -35,8 +35,8 @@ $config['site.show_profiler'] = 0;
 // !For Update messages
 //--------------------------------------------------------------------
 
-$config['updates.do_check'] = 1;		// Whether to check for updates or not.
-$config['updates.bleeding_edge'] = 1;	// Show update message when new commits exist?
+$config['updates.do_check'] = 0;		// Whether to check for updates or not.
+$config['updates.bleeding_edge'] = 0;	// Show update message when new commits exist?
 $config['updates.last_commit']	= '';	// Stores the last installed commit ref
 
 //--------------------------------------------------------------------
@@ -57,7 +57,7 @@ $config['site.backup_folder']	= 'archives/';
 $config['auth.allow_register'] = 1;
 
 // Type of login allowed ('email', 'username', 'both')
-$config['auth.login_type'] = "email";
+$config['auth.login_type'] = "both";
 
 // Whether usernames are used in the system (0:no, 1:yes, 2:yes+ownname)
 $config['auth.use_usernames'] = 1;
@@ -90,7 +90,20 @@ $config['auth.use_extended_profile'] = 0;
 	The icon displayed is chosen automatically from the
 	theme/images/context_context_name.png files.
 */
-$config['contexts'] = array( 'content', 'settings', 'developer', 'infoblocks','passportosi', 'ocenkaosi', 'dic', 'connector', 'export', 'uploadify' );
+$config['contexts'] = array(
+'content',
+'settings',
+//'developer',
+'infoblocks',
+//'passportosi',
+//'ocenkaosi',
+'dic',
+'connector',
+'export',
+'uploadify',
+'mydbase',
+'myuser'
+);
 
 
 //--------------------------------------------------------------------
@@ -120,9 +133,8 @@ $config['module_permissions'] = array(
 	'developer'		=> array(
 		'database'	=> 'Bonfire.Database.Manage',
 	),
-	'infoblocks'		=> array(
-
-	),
+	'infoblocks'		=> array(),
+	'mydbase'		=> array(),
 );
 
 //--------------------------------------------------------------------

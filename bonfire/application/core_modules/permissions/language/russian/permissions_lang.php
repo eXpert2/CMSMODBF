@@ -1,0 +1,22 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+$lang['permissions_manage']			= 'Управление правами';
+$lang['permissions_edit_text']			= 'Отредактируйте это';
+$lang['permissions_no_records']			= 'Не найдено прав в системе';
+$lang['permissions_create_new']			= 'Создание прав';
+$lang['permissions_create_message']			= 'Создать права которое можно назначить пользователям через модуль Роли';
+$lang['permissions_create_success']			= 'Права созданы';
+$lang['permissions_create_failure']			= 'Произошла ошибка при создании прав: ';
+$lang['permissions_create_new_button']			= 'Создать новое';
+$lang['permissions_invalid_id']			= 'Не правильное ID права';
+$lang['permissions_edit_success']			= 'Права успешно сохранены';
+$lang['permissions_edit_failure']			= 'Произошла ошибка при сохранении прав: ';
+$lang['permissions_delete_success']			= 'Права успешно удалены';
+$lang['permissions_delete_failure']			= 'Мы не можем удалить эти права: ';
+$lang['permissions_actions']			= 'Дествия';
+$lang['permissions_cancel']			= 'Отмена';
+$lang['permissions_edit_heading']			= 'Редактировать';
+$lang['permissions_save']			= 'Сохранить';
+
+$lang['permissions_delete_record']			= 'Удалить';
+$lang['permissions_delete_confirm']			= 'Вы действительно хотите удалить эти права?';
+$lang['permissions_delete_warning']			= 'Удаление также может привезти к ошибке в Ролях!';

@@ -439,13 +439,13 @@ function context_nav($mode='icon')
 	// Ensure settings context exists
 	if (!in_array('settings', $contexts))
 	{
-		array_push($contexts, 'settings');
+		//array_push($contexts, 'settings');
 	}
 
 	// Ensure developer context exists
 	if (!in_array('developer', $contexts))
 	{
-		array_push($contexts, 'developer');
+		//array_push($contexts, 'developer');
 	}
 
 	$nav = '';
@@ -455,9 +455,10 @@ function context_nav($mode='icon')
 	*/
 	foreach ($contexts as $context)
 	{
-		
+
+        //echo $context.'<br>';
         if (has_permission('Site.'. ucfirst($context) .'.View'))
-		{   //echo $context.'<br>';
+		{
 			$url = site_url(SITE_AREA .'/'.$context);
 			$class = check_class($context);
 			$id = 'tb_'. $context;
