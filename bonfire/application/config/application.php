@@ -102,7 +102,8 @@ $config['contexts'] = array(
 'export',
 'uploadify',
 'mydbase',
-'myuser'
+'myuser',
+'catalog'
 );
 
 

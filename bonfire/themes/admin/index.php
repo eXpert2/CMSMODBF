@@ -77,7 +77,7 @@
 <div id="sidebar">
 
 <div id="menu">
-    <?php echo modules::run('subnav/subnav/index', $this->uri->segment(2)); ?>
+    <?php echo @modules::run('subnav/subnav/index', $this->uri->segment(2)); ?>
 </div>
 <img src="<?php echo Template::theme_url()?>images/emp.gif" height=200 width=1 style="float:left"> <!-- /sidebar -->
 </div> <!-- /menu -->
