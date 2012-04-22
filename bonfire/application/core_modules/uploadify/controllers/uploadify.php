@@ -52,7 +52,13 @@ class Uploadify extends Base_Controller {
 
 				move_uploaded_file($tempFile,$targetFileToSave);
 				//echo str_replace($_SERVER['DOCUMENT_ROOT'],'',$targetFile);
-				echo str_replace($_SERVER['DOCUMENT_ROOT'],'',$targetFileToSave);
+				$filepath = str_replace($_SERVER['DOCUMENT_ROOT'],'',$targetFileToSave);
+
+				$data = array(
+				file_path => $filepath,
+				file_id => $recfile->id
+				);
+				echo json_encode($data);
 
 				exit;
 			} else {

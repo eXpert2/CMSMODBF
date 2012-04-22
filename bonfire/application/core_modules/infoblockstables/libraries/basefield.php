@@ -212,19 +212,34 @@ class Basefield extends Base_Controller {
 		    true);
 
 	   $recfile = new Recfile();
-	   $recfile->get_where(array(
+
+	   if($this->field->recfile_id>0)
+	   {
+        	$recfile->get_where(array(
+						'id' => $this->field->recfile_id
+						), 1, 0);
+	   } else {
+	   		$recfile->get_where(array(
 						'tableID' => $this->field->tableID,
 						'fieldID' => $this->field->id,
 						'recordID' => $this->field->recordID
 						), 1, 0);
+	   }
+
+
+
 
 		//echo " {$this->field->tableID} {$this->field->id} {$this->field->recordID} ";
 		//exit;
+
+
+
 
 	   if($recfile->result_count()>0)
 	   {
 	   		$fileshtml = "
 			<a class=\"{$this->field->fieldname}_uploadify_files\" id=\"file_{$recfile->id}\" href=\"{$recfile->path}\" target='_blank'>{$recfile->path}</a>
+			<input name=\"{$this->field->fieldname}\" type=\"hidden\" value=\"{$recfile->id}\">
 	   		";
 	   }
 
@@ -234,7 +249,7 @@ class Basefield extends Base_Controller {
 					div.{$this->field->fieldname}_uploadify_files {width:350px;}
 					img.{$this->field->fieldname}_uploadify_images {border:1px solid #999; margin:2px; float:left; }
 					</style>
-					<input id="{$this->field->fieldname}_uploadify" name="{$this->field->fieldname}" type="file" /> <br />
+					<input id="{$this->field->fieldname}_uploadify" name="{$this->field->fieldname}_uploadify" type="file" /> <br />
 					<input type="button" value="Загрузить файл" onclick="jQuery('#{$this->field->fieldname}_uploadify').uploadifyUpload();"><br />
 					<div class="{$this->field->fieldname}_uploadify_files">
                         $fileshtml
@@ -255,12 +270,15 @@ class Basefield extends Base_Controller {
 					    },
 					    'onComplete': function(event, ID, fileObj, response, data) {
 
+
 										//alert(response);
+
 										if(response==0)
 										{
-											alert('Не правильный формат файла, загрузите документ.');
+											alert('Не правильный формат файла, загрузите документ. Разрешенные форматы: $allowedstr');
 										} else {
-										jQuery('.{$this->field->fieldname}_uploadify_files').html('<a id="file_'+ID+'" href="'+response+'" target="_blank">'+'Загружен: '+(response)+'</a>');
+										var res = jQuery.parseJSON(response);
+										jQuery('.{$this->field->fieldname}_uploadify_files').html('<a id="file_'+ID+'" href="'+res.file_path+'" target="_blank">'+'Загружен: '+res.file_path+'</a><input name="{$this->field->fieldname}" type="hidden" value="'+res.file_id+'">');
 										jQuery('#file_'+ID).fadeIn('slow');
 										}
 									  }
@@ -292,17 +310,27 @@ END;
 		    true);
 
 	   $recfile = new Recfile();
-	   $recfile->get_where(array(
+
+	   if($this->field->recfile_id>0)
+	   {
+        	$recfile->get_where(array(
+						'id' => $this->field->recfile_id
+						), 1, 0);
+	   } else {
+	   		$recfile->get_where(array(
 						'tableID' => $this->field->tableID,
 						'fieldID' => $this->field->id,
 						'recordID' => $this->field->recordID
 						), 1, 0);
+	   }
+
 	   //$recfile->get();
 
 	   if($recfile->result_count()>0)
 	   {
 	   		$imageshtml = "
 			<img class=\"{$this->field->fieldname}_uploadify_images\" id=\"img_{$recfile->id}\"  src=\"{$recfile->path}\" width=\"150\">
+			<input name=\"{$this->field->fieldname}\" type=\"hidden\" value=\"{$recfile->id}\">
 	   		";
 	   }
 
@@ -312,7 +340,7 @@ END;
 					div.{$this->field->fieldname}_uploadify_files {width:350px;}
 					img.{$this->field->fieldname}_uploadify_images {border:1px solid #999; margin:2px; float:left; }
 					</style>
-					<input id="{$this->field->fieldname}_uploadify" name="{$this->field->fieldname}" type="file" /> <br />
+					<input id="{$this->field->fieldname}_uploadify" name="{$this->field->fieldname}_uploadify" type="file" /> <br />
 					<input type="button" value="Загрузить файл" onclick="jQuery('#{$this->field->fieldname}_uploadify').uploadifyUpload();"><br />
 					<div class="{$this->field->fieldname}_uploadify_files">
                         $imageshtml
@@ -334,8 +362,15 @@ END;
 					    'onComplete': function(event, ID, fileObj, response, data) {
 					    				//alert(fileObj.filePath);
 					    				//alert(response);
-										jQuery('.{$this->field->fieldname}_uploadify_files').html('<img class="{$this->field->fieldname}_uploadify_images" id="img_'+ID+'" style="display:none;" src="'+response+'" width="150">');
+					    				if(response==0)
+										{
+											alert('Не правильный формат файла, загрузите картинку. Разрешенные форматы: $allowedstr');
+										} else {
+					    				var res = jQuery.parseJSON(response);
+										jQuery('.{$this->field->fieldname}_uploadify_files').html('<img class="{$this->field->fieldname}_uploadify_images" id="img_'+ID+'" style="display:none;" src="'+res.file_path+'" width="150"><input name="{$this->field->fieldname}" type="hidden" value="'+res.file_id+'">');
 										jQuery('#img_'+ID).fadeIn('slow');
+										}
+
 									  }
 					  });
 

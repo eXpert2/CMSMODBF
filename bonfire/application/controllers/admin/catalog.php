@@ -23,6 +23,8 @@ class Catalog extends Admin_Controller {
     		{
     			foreach($this->input->post('set') as $k => $v)
     			{
+    				if($k=='deep' && $v>5) $v=5;
+    				if($k=='deep' && $v<=0) $v=1;
     				$this->db->query("update ".$this->db->dbprefix."catalog_settings set value=? where name=?",array($v,$k));
     			}
     		}
