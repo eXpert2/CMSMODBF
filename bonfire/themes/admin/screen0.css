@@ -176,7 +176,8 @@ textarea {
 	line-height: 1.5;
 	font-size: 0.875em;
 }
-select { min-width: 10em; font-size: 13px; }
+select { min-width: 10em; font-size: 13px; width:30%; font: 1.1em "tahoma", sans-serif;
+padding: 3px 8px; }
 select.multiple-select {
 	width: 702px;
 	border: 1px solid #ddd;

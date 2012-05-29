@@ -67,7 +67,7 @@
       <td><input style="text-align:center;" name="catalog_pos[<?=$v->id?>]" type="text" size="5" value="<?=$v->pos?>"></td>
       <td><?=$v->id?></td>
       <td><?=$v->left?><input name="catalog_title[<?=$v->id?>]" type="text" value="<?=$v->title?>"></td>
-      <td><a href="/admin/catalog/items">товары</a></td>
+      <td><a href="/admin/catalog/items/catid/<?=$v->id?>">товары</a></td>
       <td><input name="catalog_delete[<?=$v->id?>]"   class="deletes" type="checkbox" value="1" <?=($v->deleted)?"checked":''; ?> ></td>
       <td><input name="catalog_hidden[<?=$v->id?>]"   class="hiddens" type="checkbox" value="1" <?=($v->hidden)?"checked":''; ?> ></td>
       <td><a href="/<?=$this->uri->uri_string()?>/editparams/<?=$v->id?>">Параметры</a></td>

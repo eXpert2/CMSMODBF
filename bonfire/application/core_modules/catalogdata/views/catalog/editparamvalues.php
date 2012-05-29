@@ -21,6 +21,8 @@
     	<th><NOBR><a href="<?=base_url()?>admin/catalog/catalogdata/">Список каталогов</a></NOBR></th>
     	<th><NOBR><a href="<?=base_url()?>admin/catalog/catalogdata/editparams/<?=$catalog_id?>">Параметры каталога</a></NOBR></th>
     	<th><NOBR><a href="<?=base_url()?>admin/catalog/catalogdata/editparamvalues/<?=$catalog_id?>">Значения параметров каталога</a></NOBR></th>
+    	<th><NOBR><a href="<?=base_url()?>admin/catalog/catalogdata/edititemparams/<?=$catalog_id?>">Параметры товаров</a></NOBR></th>
+    	<th><NOBR><a href="<?=base_url()?>admin/catalog/items/catid/<?=$catalog_id?>">Список товаров</a></NOBR></th>
     	<th width="100%"></th>
     </tr>
   </thead>
