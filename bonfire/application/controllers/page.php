@@ -39,9 +39,6 @@ class Page extends Front_Controller {
 
 		$this->data['PageDSList'] =  $dstores;
 
-
-
-
 		// getting tpl sourse
 		$this->smarty->view($PageObject->tplname, $this->data); // compile tpl from db and fetch html sourse
 
@@ -112,6 +109,33 @@ class Page extends Front_Controller {
 			break;
             case"field":
             $return = array('value'=>$ds->field_value);
+			break;
+
+			case"catalog":
+			//echo "Каталог:";
+            $cataloglist = array();
+			$html = "";
+		 	$cataloglist =  modules::run('catalogdata/catalog/getcataloglistbyid', array($ds->catalog_id,$ds->recursive)); // выводим данные из модуля каталог
+            $return = array ('catalog'=>$cataloglist);
+
+            //echo "<pre>";
+            //print_r($cataloglist);
+            //echo "</pre>";
+            //exit;
+
+			break;
+
+			case"itemlist":
+            $cataloglist = array();
+			$html = "";
+		 	$itemlist =  modules::run('catalogdata/catalog/getitemsbycatalogid', array($ds->catalog_id,$ds->recursive)); // выводим данные из модуля каталог
+            $return = array ('itemlist'=>$itemlist);
+
+            //echo "<pre>";
+            //print_r($cataloglist);
+            //echo "</pre>";
+            //exit;
+
 			break;
 		}
 

@@ -19,6 +19,15 @@ class Datastorelist extends Base_Controller {
          	case"field":
             $html = $this->_renderFieldHtml();
          	break;
+         	case"catalog":
+            $html = $this->_renderCatalogListHtml();
+         	break;
+         	case"itemlist":
+            $html = $this->_renderCatalogListHtml();
+         	break;
+         	case"item":
+            $html = $this->_renderCatalogListHtml();
+         	break;
          }
 
          echo $html;
@@ -51,6 +60,27 @@ class Datastorelist extends Base_Controller {
 
 		 $html .="</select>";
 		 echo $html;
+		 exit;
+	}
+
+	function _renderCatalogListHtml()
+	{
+		 $md5 = md5(time());
+		 $html = "";
+		 $catalog_recursive = 1;
+		 $cataloglist =  modules::run('catalogdata/catalog/getcataloglist', array($catalog_recursive)); // выводим данные из модуля каталог
+		 if(count($cataloglist)>0 && is_array($cataloglist))
+		 {
+		 	$html .="<label for=\"catalog_id_$md5\" class=\"block\">Выберите каталог</label>";
+		 	$html .="<select size=\"1\" name=\"catalog_id\" id=\"catalog_id_$md5\">";
+		 	foreach($cataloglist as $k=>$cat)
+		 	{
+				$html .="<option value=\"{$cat->id}\">{$cat->left}{$cat->title}</option>";
+		 	}
+		 	$html .="</select>";
+			echo $html;
+		 }
+		 //$html
 		 exit;
 	}
 

@@ -2,7 +2,7 @@
 // THIRD-PARTY FUNCTIONS
 //--------------------------------------------------------------------
 
-/*	
+/*
 
 	jQuery pub/sub plugin by Peter Higgins (dante@dojotoolkit.org)
 
@@ -11,7 +11,7 @@
 	Original is (c) Dojo Foundation 2004-2010. Released under either AFL or new BSD, see:
 	http://dojofoundation.org/license for more information.
 
-*/	
+*/
 
 ;(function(d){
 
@@ -19,13 +19,13 @@
 	var cache = {};
 
 	d.publish = function(/* String */topic, /* Array? */args){
-		// summary: 
+		// summary:
 		//		Publish some data on a named topic.
 		// topic: String
 		//		The channel to publish on
 		// args: Array?
 		//		The data to publish. Each array item is converted into an ordered
-		//		arguments on the subscribed functions. 
+		//		arguments on the subscribed functions.
 		//
 		// example:
 		//		Publish stuff on '/some/topic'. Anything subscribed will be called
@@ -43,13 +43,13 @@
 		// topic: String
 		//		The channel to subscribe to
 		// callback: Function
-		//		The handler event. Anytime something is $.publish'ed on a 
+		//		The handler event. Anytime something is $.publish'ed on a
 		//		subscribed channel, the callback will be called with the
 		//		published array as ordered arguments.
 		//
 		// returns: Array
 		//		A handle which can be used to unsubscribe this particular subscription.
-		//	
+		//
 		// example:
 		//	|	$.subscribe("/some/topic", function(a, b, c){ /* handle data */ });
 		//
@@ -68,7 +68,7 @@
 		// example:
 		//	|	var handle = $.subscribe("/something", function(){});
 		//	|	$.unsubscribe(handle);
-		
+
 		var t = handle[0];
 		cache[t] && d.each(cache[t], function(idx){
 			if(this == handle[1]){
@@ -83,42 +83,67 @@
 // !COMMON UI FUNCTIONS
 //--------------------------------------------------------------------
 
-
 head.ready(function(){
 
 	/*
 		Notification fades
 	*/
 	$('.fade-me').delay(5000).slideUp(450);
-	
-	/* 
+
+	/*
 		Table Stripes
 	*/
 	$('table tr').filter(':odd').addClass('odd');
-	
+
 	/*
 		AJAX Setup
 	*/
 	$.ajaxSetup({cache: false});
-	
+
 	$('#loader').ajaxStart(function(){
 		$('#loader').show();
 	});
-	
+
 	$('#loader').ajaxStop(function(){
 		$('#loader').hide();
 	});
-	
+
 	/*
 		Hook up ajax links
 	*/
 	$('.ajaxify').live('click', function(e) {
 		e.preventDefault();
-		
+
 		var url = $(this).attr('href');
-		
+
 		$('#ajax-content').load(url);
 	});
 });
 
 
+function deleteRecFile(e,id)
+{
+    e.preventDefault();
+    if(confirm('Удалить?')==false) return false;
+    $.ajax({
+	   type: "POST",
+	   url: "/uploadify/uploadify/deleterecfile",
+	   data: "id="+id,
+	   success: function(msg){
+	     if(msg=="1") $('#field_imagelist_'+id).remove();
+	   }
+	 });
+}
+
+function saveRecFileData(id)
+{
+    $.ajax({
+	   type: "POST",
+	   url: "/uploadify/uploadify/saverecfiledata",
+	   data: "id="+id+'&title='+$('#recfiletitle_'+id).val()+'&descr='+$('#recfiledescr_'+id).val(),
+	   success: function(msg){
+	     $('#error_handler_'+id).text('Сохранено...').fadeIn(200);
+	     $('#error_handler_'+id).fadeOut(200);
+	   }
+	 });
+}

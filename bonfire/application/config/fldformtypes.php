@@ -66,7 +66,15 @@ $config['fldformtypes'] = array(
                                                   'type' => 'uploadify',
                                                   'constraint' => '255',
                                                   'vtype'=>'text',
-                                                  'allowed'=>array('jpeg','jpg','png','gif','psd')
+                                                  'allowed'=>array('jpeg','jpg','png','gif')
+                                            ),
+                         'uploadify_imagelist' => array(
+                                                  'title'=>'Загрузка картинок UPLOADIFY IMAGELIST',
+                                                  'name'=>'Flash Uploader',
+                                                  'type' => 'uploadify',
+                                                  'constraint' => '255',
+                                                  'vtype'=>'text',
+                                                  'allowed'=>array('jpeg','jpg','png','gif')
                                             )
 
                  );

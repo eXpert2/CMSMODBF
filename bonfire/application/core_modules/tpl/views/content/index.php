@@ -54,11 +54,6 @@
         </div>
 
         <div>
-            <label for="descr" class="block">Описание шаблона</label>
-            <input name="descr" id="descr" value="" type="text">
-        </div>
-
-         <div>
            <label for="opt" class="block">Тип шаблона</label>
            <select size="1" name="opt" id="opt" style="width:340px;">
 			<? foreach($tpltypes as $k=>$v){ ?>

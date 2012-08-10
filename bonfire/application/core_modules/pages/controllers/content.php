@@ -80,6 +80,8 @@ class Content extends Admin_Controller {
          	$datastore->field_value =  $this->input->post('field_value');
          	$datastore->pos = $datastore->getMaxPos($datastore->page_id)+1;
          	$datastore->name = $datastore->ds_type.'_'.$datastore->pos;
+         	$datastore->catalog_id = $this->input->post('catalog_id');
+         	$datastore->item_id = $this->input->post('item_id');
 
 
          	switch($datastore->ds_type)
@@ -149,6 +151,15 @@ class Content extends Admin_Controller {
         Template::set('editpage', $pnow);
         Template::set('allpage', $p->get()->all);
         Template::render();
+    }
+
+
+    function delete()
+    {
+    	$currentpage = new Page();
+        $pnow = $currentpage->where('id', $this->uri->segment(5))->get();
+        $pnow->delete();
+        Template::redirect('/admin/content/pages/');
     }
 
 

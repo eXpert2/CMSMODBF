@@ -19,7 +19,7 @@
 <table cellspacing="0">
   <thead>
     <tr class="odd" >
-    	<th colspan="4">Каталог: <?=$catalog_current->title?></th>
+    	<th colspan="4">Каталог: <a href="/admin/catalog/items/edititem/<?=$catalog_current->id?>/"><?=$catalog_current->title?></a></th>
     </tr>
   </thead>
 
@@ -93,7 +93,13 @@
 	  $fld->fldformtype = $extformtables->noprefix.'_titleID';
 	  $fld->fieldtype   = 'text';
       }
-      echo modules::run('infoblockstables/field/index', $fld);
+
+      if($fld->fldformtype=='uploadify_imagelist')
+       {
+       	echo "Функция будет доступна после создания записи";
+       } else {
+	      echo modules::run('infoblockstables/field/index', $fld);
+	      }
       ?>
 
       </td>

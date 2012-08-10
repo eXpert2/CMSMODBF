@@ -79,6 +79,9 @@ class Basefield extends Base_Controller {
         	case"uploadify_image":
         	$this->_getUploadImageField();
         	break;
+        	case"uploadify_imagelist":
+        	$this->_getUploadImageListField();
+        	break;
         	default:
         	$this->_getDefaultField();
         	break;
@@ -194,7 +197,7 @@ class Basefield extends Base_Controller {
 	   $siteUrl = site_url();
 	   $scripturl = site_url()."assets/js/uploadify";
 	   $allowedstr = implode(',',$this->fieldConfig['allowed']);
-	   $SID = session_id();
+	   $SID = $this->session->userdata('session_id');
 	   if($this->Testing==true)
 	   {
 	   	$uploadscript = $scripturl.'/uploadifydebug.php';
@@ -246,7 +249,7 @@ class Basefield extends Base_Controller {
 	   $this->html = <<<END
 					<link href="$scripturl/uploadify.css" type="text/css" rel="stylesheet" />
 					<style>
-					div.{$this->field->fieldname}_uploadify_files {width:350px;}
+					div.{$this->field->fieldname}_uploadify_files {width:100%;}
 					img.{$this->field->fieldname}_uploadify_images {border:1px solid #999; margin:2px; float:left; }
 					</style>
 					<input id="{$this->field->fieldname}_uploadify" name="{$this->field->fieldname}_uploadify" type="file" /> <br />
@@ -264,7 +267,7 @@ class Basefield extends Base_Controller {
 					    'multi'		: false,
 					    'queueSizeLimit' : 1,
 					    'auto'      : false,
-					    'scriptData': {'PHPSESSID':'{$SID}',fieldID:'{$this->field->id}','allowed':'$allowedstr',recordID:jQuery('#Id_id').attr('value'),tableID:jQuery('#tableID').attr('value')},
+					    'scriptData': {'PHPSESSID':'$SID',fieldID:'{$this->field->id}','allowed':'$allowedstr',recordID:jQuery('#Id_id').attr('value'),tableID:jQuery('#tableID').attr('value')},
 					    'onError':    function(event,ID,fileObj,errorObj) {
 					    	alert(errorObj.type + ' Error: ' + errorObj.info);
 					    },
@@ -294,7 +297,7 @@ END;
 	   $siteUrl = site_url();
 	   $scripturl = site_url()."assets/js/uploadify";
 	   $allowedstr = implode(',',$this->fieldConfig['allowed']);
-	   $SID = session_id();
+	   $SID = $this->session->userdata('session_id');
       if($this->Testing==true)
 	   {
 	   	$uploadscript = $scripturl.'/uploadifydebug.php';
@@ -337,7 +340,7 @@ END;
 	   $this->html = <<<END
 					<link href="$scripturl/uploadify.css" type="text/css" rel="stylesheet" />
 					<style>
-					div.{$this->field->fieldname}_uploadify_files {width:350px;}
+					div.{$this->field->fieldname}_uploadify_files {width:100%;}
 					img.{$this->field->fieldname}_uploadify_images {border:1px solid #999; margin:2px; float:left; }
 					</style>
 					<input id="{$this->field->fieldname}_uploadify" name="{$this->field->fieldname}_uploadify" type="file" /> <br />
@@ -355,7 +358,7 @@ END;
 					    'multi'		: false,
 					    'queueSizeLimit' : 1,
 					    'auto'      : false,
-					    'scriptData': {'PHPSESSID':'{$SID}',fieldID:'{$this->field->id}','allowed':'$allowedstr',recordID:jQuery('#Id_id').attr('value'),tableID:jQuery('#tableID').attr('value')},
+					    'scriptData': {'PHPSESSID':'$SID',fieldID:'{$this->field->id}','allowed':'$allowedstr',recordID:jQuery('#Id_id').attr('value'),tableID:jQuery('#tableID').attr('value')},
 					    'onError':    function(event,ID,fileObj,errorObj) {
 					    	alert(errorObj.type + ' Error: ' + errorObj.info);
 					    },
@@ -377,6 +380,128 @@ END;
 					});
 					</script>
 END;
+	}
+
+
+	function _getUploadImageListField()
+	{
+	   $siteUrl = site_url();
+	   $scripturl = site_url()."assets/js/uploadify";
+	   $allowedstr = implode(',',$this->fieldConfig['allowed']);
+	   $SID = $this->session->userdata('session_id');
+      if($this->Testing==true)
+	   {
+	   	$uploadscript = $scripturl.'/uploadifydebug.php';
+	   } else {
+	   	$uploadscript = $siteUrl.'uploadify/uploadify/imagelist';
+	   	//$uploadscript = $scripturl.'/uploadify.php';
+	   }
+	    Assets::add_js( array(
+		        $scripturl."/swfobject.js",
+		        $scripturl."/jquery.uploadify.v2.1.4.min.js"
+		    ),
+		    'external',
+		    true);
+
+	   $recfile = new Recfile();
+
+	   if($this->field->recordtype=='extform') {
+
+	   		$recfile->get_where(array(
+						'tableID' => $this->field->tableID,
+						'fieldID' => $this->field->id,
+						'recordID' => $this->field->recordID
+						));
+	   } elseif($this->field->recordtype=='catalog' || $this->field->recordtype=='item') {
+
+	   		$recfile->get_where(array(
+						'recordtype' => $this->field->recordtype,
+						'recordID' => $this->field->record_id
+						));
+	   }
+
+	   //$recfile->get();
+
+	   if($recfile->result_count()>0)
+	   {
+	   		$imageshtml="";
+	   		foreach($recfile->all as $k=>$img)
+	   		{
+               $imageshtml .= $this->_getImageFieldHTML($img);
+               ;
+	   		}
+
+
+
+
+	   }
+
+	   $this->html = <<<END
+					<link href="$scripturl/uploadify.css" type="text/css" rel="stylesheet" />
+					<style>
+					div.{$this->field->fieldname}_uploadify_files {width:100%;}
+					img.{$this->field->fieldname}_uploadify_images {border:1px solid #999; margin:2px; float:left; }
+					</style>
+					<input id="{$this->field->fieldname}_uploadify" name="{$this->field->fieldname}_uploadify" type="file" /> <br />
+					<input type="button" value="Загрузить файлы" onclick="jQuery('#{$this->field->fieldname}_uploadify').uploadifyUpload();"><br />
+					<div class="{$this->field->fieldname}_uploadify_files">
+                        $imageshtml
+					</div>
+					<script type="text/javascript">
+					head.ready(function(){
+					  jQuery('#{$this->field->fieldname}_uploadify').uploadify({
+					    'uploader'  : '$scripturl/uploadify.swf',
+					    'script'    : '{$uploadscript}',
+					    'cancelImg' : '$scripturl/cancel.png',
+					    'folder'    : '/files/uploads/images',
+					    'multi'		: true,
+					    'queueSizeLimit' : 10,
+					    'auto'      : false,
+					    'scriptData': {'PHPSESSID':'$SID',fieldID:'{$this->field->id}','allowed':'$allowedstr',recordID:jQuery('#Id_id').attr('value'),tableID:jQuery('#tableID').attr('value'),recordtype:'{$this->field->recordtype}',record_id:'{$this->field->record_id}'},
+					    'onError':    function(event,ID,fileObj,errorObj) {
+					    	alert(errorObj.type + ' Error: ' + errorObj.info);
+					    },
+					    'onComplete': function(event, ID, fileObj, response, data) {
+					    				//alert(fileObj.filePath);
+					    				//alert(response);
+					    				if(response==0)
+										{
+											alert('Не правильный формат файла, загрузите картинку. Разрешенные форматы: $allowedstr');
+										} else {
+
+					    				var res = jQuery.parseJSON(response);
+										jQuery('.{$this->field->fieldname}_uploadify_files')
+										.append('<div style=\'width:100%; height:auto; border:1px solid #ddd;margin-bottom:2px;\' id=\'field_imagelist_'+res.file_id+'\'><img class=\"{$this->field->fieldname}_uploadify_images\" style=\'float:left;\' id=\"img_'+res.file_id+'\"  src=\"'+res.file_path+'\" width=\"150\"><div><input name=\"recfiletitle['+res.file_id+']\"  id=\"recfiletitle_'+res.file_id+'\" type=\"text\" value=\"\" style=\'width:350px;margin-bottom:2px;\'><textarea name=\"recfiledescr['+res.file_id+']\" id=\"recfiledescr_'+res.file_id+'\" rows=5 cols=20 wrap=\"off\" style=\'width:350px;margin-bottom:2px;\'></textarea><input type=\"button\" value=\"Сохранить\" onclick=\'saveRecFileData('+res.file_id+');\'>&nbsp;<input type=\"button\" value=\"Удалить\" onclick=\'deleteRecFile(event,'+res.file_id+');\'>&nbsp;<span id=\'error_handler_'+res.file_id+'\'><span></div><input name=\"{$this->field->fieldname}\" type=\"hidden\" value=\"'+res.file_id+'\"><br style=\'clear:both;\'></div>');
+										jQuery('#img_'+ID).fadeIn('slow');
+										}
+
+									  }
+					  });
+
+					});
+					</script>
+END;
+	}
+
+	function _getImageFieldHTML($img)
+	{
+		$html = "
+				<div style='width:100%; height:auto; border:1px solid #ddd;margin-bottom:2px;' id='field_imagelist_{$img->id}'>
+				<img class=\"{$this->field->fieldname}_uploadify_images\" style='float:left;position:relative;' id=\"img_{$img->id}\"  src=\"{$img->path}\" width=\"150\">
+				<div>
+    				<input name=\"recfiletitle[{$img->id}]\" id=\"recfiletitle_{$img->id}\" type=\"text\" value=\"{$img->title}\" style='width:350px;margin-bottom:2px;'>
+    				<textarea name=\"recfiledescr[{$img->id}]\" id=\"recfiledescr_{$img->id}\" rows=5 cols=20 wrap=\"off\" style='width:350px;margin-bottom:2px;'>{$img->descr}</textarea>
+
+    				<input type=\"button\" value=\"Сохранить\" onclick='saveRecFileData({$img->id});'>
+    				<input type=\"button\" value=\"Удалить\" onclick='deleteRecFile(event,{$img->id});'>
+    				&nbsp;<span id='error_handler_{$img->id}'><span>
+				</div>
+				<input name=\"{$this->field->fieldname}\" type=\"hidden\" value=\"{$img->id}\">
+				<br style='clear:both;'>
+				</div>
+
+		   		";
+		return $html;
 	}
 
 

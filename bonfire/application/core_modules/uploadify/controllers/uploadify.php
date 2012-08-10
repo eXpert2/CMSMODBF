@@ -1,8 +1,13 @@
 <?php if (!defined('BASEPATH')) exit('No direct script access allowed');
 
 
-class Uploadify extends Base_Controller {
+class Uploadify extends Base_Controller // Authenticated_Controller
+{
 
+	function __construct()
+	{
+		parent::__construct(); // проверка авторизованности юзера!!!
+	}
 	public function index($context=null)
 	{
          //echo "hello";
@@ -43,6 +48,120 @@ class Uploadify extends Base_Controller {
 				$recfile->tableID = (int)$_REQUEST['tableID'];
 				$recfile->fieldID = (int)$_REQUEST['fieldID'];
 				$recfile->recordID = (int)$_REQUEST['recordID'];
+                $recfile->name = $_FILES['Filedata']['name'];
+                $recfile->ext = $ext;
+                $recfile->size = $_FILES['Filedata']['size'];
+                $recfile->mime = $_FILES['Filedata']['mime'];
+                $recfile->path = str_replace($_SERVER['DOCUMENT_ROOT'],'',$targetFileToSave);
+                $recfile->save();
+
+				move_uploaded_file($tempFile,$targetFileToSave);
+				//echo str_replace($_SERVER['DOCUMENT_ROOT'],'',$targetFile);
+				$filepath = str_replace($_SERVER['DOCUMENT_ROOT'],'',$targetFileToSave);
+
+				$data = array(
+				file_path => $filepath,
+				file_id => $recfile->id
+				);
+				echo json_encode($data);
+
+				exit;
+			} else {
+				echo '0';
+				exit;
+			}
+		}
+
+
+
+	}
+
+    function deleterecfile()
+    {
+    	//$this->load->library('auth');
+    	//$this->auth->restrict('Site.Infoblocks.View');
+    	if(is_numeric($this->input->post('id')))
+    	{
+    		$recfile = new Recfile();
+			$recfile->get_where(array(
+					'id' =>$this->input->post('id')
+					), 1, 0);
+			if(unlink($_SERVER['DOCUMENT_ROOT'].$recfile->path))
+			{
+				$recfile->delete();
+				echo 1;
+			} else {
+			echo 0;
+			}
+    	}
+
+    	exit;
+
+    }
+
+
+    function saverecfiledata()
+    {
+    	//$this->load->library('auth');
+    	//$this->auth->restrict('Site.Infoblocks.View');
+    	if(is_numeric($this->input->post('id')))
+    	{
+
+    		$recfile = new Recfile();
+			$recfile->get_where(array(
+					'id' =>$this->input->post('id')
+					), 1, 0);
+			$recfile->title = $this->input->post('title');
+			$recfile->descr = $this->input->post('descr');
+			if($recfile->save())
+			{
+				echo 1;
+			} else {
+			echo 0;
+			}
+    	}
+
+    	exit;
+
+    }
+	/// do gallery photo uploads
+	public function imagelist($context=null)
+	{
+         //echo "hello";
+
+         $recfile = new Recfile();
+
+         if (!empty($_FILES)) {
+
+			$tempFile = $_FILES['Filedata']['tmp_name'];
+			$ext = array_pop(explode('.',$_FILES['Filedata']['name']));
+			$allowed  = explode(',',$_REQUEST['allowed']);
+
+
+			$targetPath = $_SERVER['DOCUMENT_ROOT'] . $_REQUEST['folder'] . '/';
+			$targetFName = $this->_str2url(array_shift(explode('.',$_FILES['Filedata']['name']))).'.'.$ext;
+
+			$targetFile =  str_replace('//','/',$targetPath) . strtolower($_REQUEST['recordID'].'_'.$_REQUEST['fieldID'].'_'.$_REQUEST['tableID'].'_'.$_FILES['Filedata']['name']);
+            $targetFileToSave = str_replace('//','/',$targetPath) . strtolower($_REQUEST['recordID'].'_'.$_REQUEST['fieldID'].'_'.$_REQUEST['tableID'].'_'.$targetFName);
+            //echo $targetFileToSave;
+			//exit;
+
+			if (in_array($ext,$allowed)) {
+
+				$recfile = new Recfile();
+				$recfile->tableID = (int)$_REQUEST['tableID'];
+				$recfile->fieldID = (int)$_REQUEST['fieldID'];
+				$recfile->recordID = (int)$_REQUEST['recordID'];
+
+                if($recfile->tableID>0 && $recfile->fieldID>0 && $recfile->recordID>0)
+                {
+                	$recfile->recordtype = 'extform';
+                } elseif($this->input->post('recordtype'))
+                {
+                	$recfile->recordtype = $this->input->post('recordtype');
+                	$recfile->recordID = $this->input->post('record_id');
+                }
+
                 $recfile->name = $_FILES['Filedata']['name'];
                 $recfile->ext = $ext;
                 $recfile->size = $_FILES['Filedata']['size'];

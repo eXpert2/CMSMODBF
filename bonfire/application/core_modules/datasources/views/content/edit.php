@@ -41,6 +41,7 @@ input.inpflds {width:150px;}
                           $fld->fieldvalue = $Record[$fld->fieldname];
                           $fld->recordID = $recordID;
                           $fld->tableID = $tableID;
+                          $fld->recordtype ='extform';
                           echo modules::run('infoblockstables/field/index', $fld);
                           ?>
                           </td>

@@ -6,11 +6,6 @@
 <div class="notification error fade-me">
         <div>
             Страница не сохранена, проверьте поля
-            <?
-            //echo "<pre>";
-            //print_r($_REQUEST);
-            //echo "</pre>";
-            ?>
         </div>
 </div>
 
@@ -54,6 +49,10 @@
             <input name="active" id="active1" value="1" <? if($editpage->active==1) { ?> checked="checked"  <?  } ?> type="radio"> <label style="text-align:left;width:50px;clear:both;margin:0;padding:0;" for="active1" class="block">Актив</label>
             <input name="active" id="active2" value="0" <? if($editpage->active==0) { ?> checked="checked"  <?  } ?> type="radio"> <label style="text-align:left;width:50px;clear:both;margin:0;padding:0;" for="active2" class="block">Скрытая</label>
         </div>
+        <div>
+            <label class="block">Удалить?</label>
+            <a href="<?=base_url()?>admin/content/pages/delete/<?=$editpage->id?>" onclick="if(confirm('Удалить?')==false) return false;">Удалить страницу</a>
+        </div>
     </fieldset>
 
     <div style="float:right;width:190px;border:1px solid #ddd; margin-top:7px;padding-left:5px;">
@@ -85,6 +84,11 @@
 			  <option value="">Выберите тип</option>
 			  <option value="recordlist">Список записей из таблицы</option>
 			  <option value="record">Запись из таблицы</option>
+
+			  <option value="catalog">Список каталогов</option>
+			  <option value="itemlist">Список товаров</option>
+			  <option value="item">Объект из каталога</option>
+
 			  <option value="field">Произвольное поле</option>
 			  <option value="form">Форма из таблицы</option>
 			</select>
@@ -110,6 +114,11 @@
             {
             	case"record": echo "Запись из таблицы";				break;
             	case"recordlist": echo "Список записей из таблицы";	break;
+
+            	case"catalog": echo "Список каталогов";	break;
+            	case"itemlist": echo "Список товаров";	break;
+            	case"item": echo "Объект из каталога";	break;
+
             	case"field": echo "Произвольное поле";				break;
             	case"form": echo "Форма из таблицы";				break;
             }

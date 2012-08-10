@@ -44,21 +44,25 @@
       <?
       if($param->param_type=='formfield') {
       $fld = new stdClass();
-      $fld->nolabel   = true;
+      $fld->nolabel     = true;
       $fld->fieldname   = $param->name;
 	  $fld->fieldtitle  = $param->title;
 	  $fld->fieldvalue  = $param->value;
 	  $fld->fldformtype = $param->fldformtype;
 	  $fld->recfile_id  = $param->recfile_id;
+	  $fld->recordtype  = 'catalog';
+	  $fld->record_id   = $catalog_id;
 	  $fld->fieldtype   = 'text';
       } else {
       $extformtables->get_where(array('id'=>$param->extformtable_id));
       $fld = new stdClass();
-      $fld->nolabel   = true;
+      $fld->nolabel     = true;
       $fld->fieldname   = $param->name;
 	  $fld->fieldtitle  = $param->title;
 	  $fld->fieldvalue  = $param->value;
 	  $fld->fldformtype = $extformtables->noprefix.'_titleID';
+	  $fld->recordtype  = 'catalog';
+	  $fld->record_id   = $catalog_id;
 	  $fld->fieldtype   = 'text';
       }
       echo modules::run('infoblockstables/field/index', $fld);

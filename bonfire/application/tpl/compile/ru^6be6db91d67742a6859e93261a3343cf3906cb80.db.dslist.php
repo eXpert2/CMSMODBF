@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-03-04 02:56:11
+<?php /* Smarty version Smarty-3.1.7, created on 2012-08-06 20:18:26
          compiled from "db:dslist" */ ?>
 <?php /*%%SmartyHeaderCode:307744f52937bd8bb67-88223963%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '6be6db91d67742a6859e93261a3343cf3906cb80' => 
     array (
       0 => 'db:dslist',
-      1 => 1330811553,
+      1 => 1344266303,
       2 => 'db',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.7',
+  'unifunc' => 'content_4f52937be47ab',
   'variables' => 
   array (
     'PageDSList' => 0,
@@ -22,8 +24,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     's' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.7',
-  'unifunc' => 'content_4f52937be47ab',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_4f52937be47ab')) {function content_4f52937be47ab($_smarty_tpl) {?><?php  $_smarty_tpl->tpl_vars['ds'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['ds']->_loop = false;
  $_from = $_smarty_tpl->tpl_vars['PageDSList']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}
@@ -64,5 +64,21 @@ $_smarty_tpl->tpl_vars['s']->_loop = true;
 				<b>Произвольное поле:</b><br>
 					Значение => <?php echo $_smarty_tpl->tpl_vars['ds']->value->data['value'];?>
 <br>
-				<?php }?>			
+				<?php }?>	
+				<?php if ($_smarty_tpl->tpl_vars['ds']->value->ds_type=='catalog'){?>				
+				<b>Список каталогов:</b><br>
+				<?php  $_smarty_tpl->tpl_vars['s'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['s']->_loop = false;
+ $_from = $_smarty_tpl->tpl_vars['ds']->value->data['catalog']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}
+foreach ($_from as $_smarty_tpl->tpl_vars['s']->key => $_smarty_tpl->tpl_vars['s']->value){
+$_smarty_tpl->tpl_vars['s']->_loop = true;
+?>
+				<?php echo $_smarty_tpl->tpl_vars['s']->value->left;?>
+ id => <?php echo $_smarty_tpl->tpl_vars['s']->value->id;?>
+; title => <?php echo $_smarty_tpl->tpl_vars['s']->value->title;?>
+; item_count => <?php echo $_smarty_tpl->tpl_vars['s']->value->item_count;?>
+<br>
+				<?php } ?>
+
+				<?php }?>		
+						
 			<?php } ?><?php }} ?>

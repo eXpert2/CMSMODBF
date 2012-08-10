@@ -229,7 +229,7 @@ class Catalog extends Admin_Controller {
                 }
 
                 Template::set('success', true);
-                Template::redirect('/admin/catalog/items/catid/'.$this->catalog_id);
+                Template::redirect('/admin/catalog/items/edititem/'.$this->catalog_id.'/'.$this->item_id);
                 }
 		}
 

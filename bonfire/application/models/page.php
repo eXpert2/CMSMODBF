@@ -12,8 +12,6 @@
  * @link        http://stensi.com
  */
 class Page extends DataMapper {
-                                       
-    var $has_one = array("pagegroup");
 
     var $validation = array(
         array(
@@ -25,7 +23,7 @@ class Page extends DataMapper {
             'field' => 'title',
             'label' => 'Title',
             'rules' => array('required', 'trim', 'unique', 'min_length' => 3, 'max_length' => 100)
-        )        
+        )
 
     );
 
@@ -38,9 +36,9 @@ class Page extends DataMapper {
     {
         parent::DataMapper();
     }
-    
+
     // --------------------------------------------------------------------
-    
+
     /**
      * Login
      *
@@ -49,7 +47,7 @@ class Page extends DataMapper {
      * @access    public
      * @return    bool
      */
-    
+
 }
 
 /* End of file page.php */

@@ -74,7 +74,7 @@ class Catalog extends Admin_Controller {
 
 
         $catalog_data = array();
-        $catalog_data = @$this->_getTree_rec(0,0,1);
+        $catalog_data = @$this->_getTree_rec(0,0,1,1);
         $catalog_data = @$this->_merge_rec($catalog_data,0);
         Template::set('catalog_data', $catalog_data);
 		Template::render();
@@ -217,6 +217,9 @@ class Catalog extends Admin_Controller {
         Template::set('catalog_data', $catalog_data);
 		Template::render();
 	}
+
+
+
 
 
 	public function edititemparams()
@@ -482,7 +485,7 @@ class Catalog extends Admin_Controller {
 	     return $allarr;
 	}
 
-	function _getTree_rec($parentID,$selected,$hidden=0)
+	function _getTree_rec($parentID,$selected,$hidden=0,$recursive=0)
 	{
         if(!$hidden) $where="AND hidden=0";
 
@@ -491,15 +494,18 @@ class Catalog extends Admin_Controller {
 		{
 			foreach($query->result() as $row)
 			{
-                $res2=$this->db->query("SELECT * FROM ".$this->db->dbprefix."catalogs WHERE `parent_id`=?  $where ORDER BY `pos`",array($row->id));
-				$nr=$res2->num_rows();
-		           if($nr>0 && $this->catalog_config['deep']>=$this->local_deep){
-		           	   $this->local_deep++;
-		           	   $row->sub=$this->_getTree_rec($row->id,$selected,$hidden);
-		           }
-			       if($row->id==$selected){
-						$row->selected=1;
-						$selected=$row->parent_id;
+                if($recursive)
+		           {
+	                $res2=$this->db->query("SELECT * FROM ".$this->db->dbprefix."catalogs WHERE `parent_id`=?  $where ORDER BY `pos`",array($row->id));
+					$nr=$res2->num_rows();
+			           if($nr>0 && $this->catalog_config['deep']>=$this->local_deep){
+			           	   $this->local_deep++;
+			           	   $row->sub=$this->_getTree_rec($row->id,$selected,$hidden,$recursive);
+        	           }
+				       if($row->id==$selected){
+							$row->selected=1;
+							$selected=$row->parent_id;
+					   }
 				   }
 	          	$tree[]=$row;
 			}
@@ -509,7 +515,60 @@ class Catalog extends Admin_Controller {
 	}
 
 
+	function getcataloglist()
+	{
+		$args = func_get_args();
+		$catalog_recursive = $args[0][0];
+		$this->local_deep = 1; // обнуливаем внутренний счетчик для внешней функции
+		$catalog_data = array();
+        $catalog_data = @$this->_getTree_rec(0,0,1,$catalog_recursive);
+        $catalog_data = @$this->_merge_rec($catalog_data,0);
+        return $catalog_data;
+	}
+
+	function getcataloglistbyid()
+	{
+		$args = func_get_args();
+		$catalog_parent_id = $args[0][0];
+		$catalog_recursive = $args[0][1];
+		$this->local_deep = 1; // обнуливаем внутренний счетчик для внешней функции
+		$catalog_data = array();
+        $catalog_data = @$this->_getTree_rec($catalog_parent_id,0,1,$catalog_recursive);
+        $catalog_data = @$this->_merge_rec($catalog_data,0);
+        return $catalog_data;
+	}
+
+	function getitemsbycatalogid()
+	{
+		$args = func_get_args();
+		$catalog_id = $args[0][0];
+		$catalog_recursive = $args[0][1];
+		$catalog_data = array();
+        $catalog_data = @$this->_getcatalogitems($catalog_id,$catalog_recursive);
+        return $catalog_data;
+	}
 	//--------------------------------------------------------------------
+
+    function _getcatalogitems($catalog_id,$catalog_recursive)
+    {
+        if($catalog_recursive)
+        {
+        	$catalog_data = $catalog_ids = array();
+        	$catalog_data = @$this->_getTree_rec($catalog_id,0,1,$catalog_recursive);
+        	$catalog_data = @$this->_merge_rec($catalog_data,0);
+        	foreach($catalog_data as $cat)
+        	{
+        		$catalog_ids[] = $cat->id;
+        	}
+
+        	echo "<pre>";
+        	print_r($catalog_ids);
+        	echo "</pre>";
+        }
+
+    }
+
+
 
 }
 

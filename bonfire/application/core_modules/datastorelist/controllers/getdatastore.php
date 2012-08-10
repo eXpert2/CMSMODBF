@@ -26,6 +26,10 @@ class Getdatastore extends Base_Controller {
          	case"field":
             $html = $this->_renderFieldHtml($ds);
          	break;
+
+         	case"catalog":
+            $html = $this->_renderCatalogListHtml($ds);
+         	break;
          }
 
 
@@ -35,7 +39,35 @@ class Getdatastore extends Base_Controller {
          echo $html;
          //exit();
 	}
+    function _renderCatalogListHtml($ds)
+    {
+    	 $md5 = md5(time());
+    	 $cataloglist = array();
+		 $html = "";
+		 $cataloglist =  modules::run('catalogdata/catalog/getcataloglist', array()); // выводим данные из модуля каталог
+		 if(count($cataloglist)>0 && is_array($cataloglist))
+		 {
+		 	$html .="<label for=\"catalog_id_$md5\" class=\"block\">Выберите каталог</label>";
+		 	$html .="<select size=\"1\" name=\"ds[$ds->id][catalog_id]\" id=\"catalog_id_$md5\">";
+		 	foreach($cataloglist as $k=>$cat)
+		 	{
+				if($ds->catalog_id==$cat->id) $selected = "selected"; else $selected = "";
+				$html .="<option value=\"{$cat->id}\"  $selected >{$cat->left}{$cat->title}</option>";
+		 	}
+		 	$html .="</select>";
+		 	$html .="<div><label for=\"ds_field_recursive_$ds->id\" class=\"block\">Включить подкаталоги</label>";
+         	$html .="<input name=\"ds[$ds->id][recursive]\" id=\"ds_field_recursive_$ds->id\" value=\"0\"  type=\"hidden\" ><input name=\"ds[$ds->id][recursive]\" id=\"ds_field_recursive_$ds->id\" value=\"1\" ".(($ds->recursive>0)?"checked":"")." type=\"checkbox\" ></div>";
 
+		 	$html .="<label class=\"block\"><b>Постраничная навигация</b></label><br />";
+		 	$html .="<div><label for=\"ds_field_base_url_$ds->id\" class=\"block\">Базовое URL страницы</label>";
+         	$html .="<input name=\"ds[$ds->id][base_url]\" id=\"ds_field_base_url_$ds->id\" value=\"{$ds->base_url}\" type=\"text\" ></div>";
+         	$html .="<div><label for=\"ds_field_per_page_$ds->id\" class=\"block\">На странице записей</label>";
+         	$html .="<input name=\"ds[$ds->id][per_page]\" id=\"ds_field_per_page_$ds->id\" value=\"{$ds->per_page}\" type=\"text\" ></div>";
+         	$html .="<div><label for=\"ds_field_uri_segment_$ds->id\" class=\"block\">Сегмент URL</label>";
+         	$html .="<input name=\"ds[$ds->id][uri_segment]\" id=\"ds_field_uri_segment_$ds->id\" value=\"{$ds->uri_segment}\" type=\"text\" ></div>";
+			return $html;
+		 }
+    }
 	function _recordlist($ds)
 	{
 		 $md5 = md5(time());

@@ -29,7 +29,6 @@ class Content extends Admin_Controller {
         {
         $t->name = $this->input->post('name');
         $t->title = $this->input->post('title');
-        $t->descr = $this->input->post('descr');
         $t->tpl = $this->input->post('tpl');
         $t->opt = $this->input->post('opt');
         $t->active = $this->input->post('active');
@@ -41,7 +40,7 @@ class Content extends Admin_Controller {
         Template::render();
     }
 
-     public function edit()
+    public function edit()
     {
 
         $t = new Tpl();
@@ -52,7 +51,6 @@ class Content extends Admin_Controller {
         {
         $tnow->name = $this->input->post('name');
         $tnow->title = $this->input->post('title');
-        $tnow->descr = $this->input->post('descr');
         $tnow->tpl = $this->input->post('tpl');
         $tnow->opt = $this->input->post('opt');
         $tnow->active = $this->input->post('active');
@@ -63,6 +61,18 @@ class Content extends Admin_Controller {
         Template::set('edittpl', $tnow);
         Template::set('alltpl', $t->get()->all);
         Template::render();
+    }
+
+    public function delete()
+    {
+
+        $t = new Tpl();
+        $currenttpl = new Tpl();
+        $tnow = $currenttpl->where('id', $this->uri->segment(5))->get();
+        $tnow->delete();
+
+
+        Template::redirect('/admin/content/tpl/');
     }
 
 

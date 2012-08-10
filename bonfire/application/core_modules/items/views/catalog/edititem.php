@@ -85,6 +85,8 @@
 	  $fld->fieldvalue  = $param->value;
 	  $fld->fldformtype = $param->fldformtype;
 	  $fld->recfile_id  = $param->recfile_id;
+	  $fld->recordtype  = 'item';
+	  $fld->record_id  = $Item->id;
 	  $fld->fieldtype   = 'text';
       } else {
       $extformtables->get_where(array('id'=>$param->extformtable_id));
@@ -93,6 +95,8 @@
       $fld->fieldname   = $param->name;
 	  $fld->fieldtitle  = $param->title;
 	  $fld->fieldvalue  = $param->value;
+	  $fld->recordtype  = 'item';
+	  $fld->record_id  = $Item->id;
 	  $fld->fldformtype = $extformtables->noprefix.'_titleID';
 	  $fld->fieldtype   = 'text';
       }
