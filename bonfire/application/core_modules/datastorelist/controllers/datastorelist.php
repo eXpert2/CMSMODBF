@@ -73,6 +73,7 @@ class Datastorelist extends Base_Controller {
 		 {
 		 	$html .="<label for=\"catalog_id_$md5\" class=\"block\">Выберите каталог</label>";
 		 	$html .="<select size=\"1\" name=\"catalog_id\" id=\"catalog_id_$md5\">";
+		 	$html .="<option value=\"0\">Все</option>";
 		 	foreach($cataloglist as $k=>$cat)
 		 	{
 				$html .="<option value=\"{$cat->id}\">{$cat->left}{$cat->title}</option>";

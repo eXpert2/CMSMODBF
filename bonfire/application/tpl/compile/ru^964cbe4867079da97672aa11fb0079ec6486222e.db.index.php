@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-08-20 18:11:24
+<?php /* Smarty version Smarty-3.1.7, created on 2012-08-20 23:14:15
          compiled from "db:index" */ ?>
 <?php /*%%SmartyHeaderCode:116754f4932d0e209b1-70896586%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '964cbe4867079da97672aa11fb0079ec6486222e' => 
     array (
       0 => 'db:index',
-      1 => 1345468281,
+      1 => 1345486454,
       2 => 'db',
     ),
   ),
@@ -21,6 +21,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   array (
     'Page' => 0,
     'THEME_PATH' => 0,
+    'data' => 0,
   ),
   'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
@@ -102,94 +103,29 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 		<div class="padding">
 			<h1><?php echo $_smarty_tpl->tpl_vars['Page']->value->title;?>
 </h1>
-			<h2>Atatonic CSS Framework</h2>
+			<?php if ($_smarty_tpl->tpl_vars['data']->value){?>	
+			<h2>// <?php echo $_smarty_tpl->tpl_vars['data']->value->title;?>
+</h2>
+			<?php echo $_smarty_tpl->tpl_vars['data']->value->text;?>
 
-			<p class="intro">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-	
+			<?php }?>		
 			<?php echo $_smarty_tpl->getSubTemplate ('db:dslist', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0);?>
 	
 			
-			<br><br>
-			<form method="post" action="">
-				<fieldset>
-					<h2>Form example</h2>
-
-	
-					<div class="notification error">The email is not correct</div>
-					<div class="notification notice">That looks like a weird city to live in.</div>
-	
-					<div class="form-item">
-						<label for="name">Name:</label>
-						<input tabindex="1" id="name" type="text" name="name" />
-					</div>
-					
-					<div class="form-item">
-
-						<label for="street">Street name:</label>
-						<input tabindex="1" id="street" type="text" name="street" />
-					</div>	
-					
-					<div class="form-item">
-						<label for="city">City:</label>
-						<input tabindex="2" id="city" type="text" name="city" class="form-field-notice" value="Mars" />
-					</div>
-					
-					<div class="form-item">
-
-						<label for="email">Email:</label>
-						<input tabindex="3" id="email" type="text" name="e-mail" class="form-field-error" value="@atatonic.net" />
-					</div>
-					
-					<div class="form-item">
-						<label for="message">Message:</label>
-						<textarea tabindex="4" id="message" name="message" rows="20" cols="85" class="wymeditor"></textarea>
-					</div>
-
-					
-					<button>Send form</button>
-				</fieldset>
-			</form>
+			<br>
+			
 		</div>
 	</div>
 
 	<div id="sidebar" class="at-30">
-		<h1>Sidebar</h1>
+		<?php echo $_smarty_tpl->getSubTemplate ('db:menu', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0);?>
 
-		<h2><a href="/">Main Page</a></h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut .</p>
-		
-		<h2><a href="/page/about">About Page</a></h2>
-		<p>Dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.</p>
 		
 		<hr />
 		
-		<div class="list-item">
-
-			<h2>Some other stuff</h2>
-			<h3>With a sweet subtitle. Yes it is a sweet one.</h3>
-			<p>
-				<img src="<?php echo $_smarty_tpl->tpl_vars['THEME_PATH']->value;?>
-/lib/images/example.jpg" alt="Helvetica" />
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-			</p>
-		</div>
 		
-		<div class="notification notice">
-
-			<h5>Atatonic notice</h5>
-			This is a basic notice message, without a header it might even look nicer. 
-		</div>
 		
-		<div class="notification success">
-			<h5>Success</h5>
-			This is a basic success message
-		</div>
 		
-		<div class="notification error">
-			<h5>Error</h5>
-
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-		</div>
 	</div>
 </div>
 

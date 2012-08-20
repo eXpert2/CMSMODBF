@@ -134,6 +134,7 @@ class Fncatalog extends Base_Controller {
 		$ds = $args[0][0];
 		$catalog_id = $ds->catalog_id;
 		$catalog_recursive = $ds->recursive;
+		$this->local_deep = 1; // обнуливаем внутренний счетчик для внешней функции
 		$catalog_data = array();
         $catalog_data = $this->_getcatalogitems($catalog_id,$catalog_recursive);
         return $catalog_data;
@@ -154,6 +155,10 @@ class Fncatalog extends Base_Controller {
         		$catalog_ids[] = $cat->id;
         	}
         }
+
+        //echo "<pre>";
+        //print_r($catalog_ids);
+        //exit;
 
         $catalog_id_str = implode(',',$catalog_ids);
         $itemscountquery = $this->db->query("select COUNT(id) as `countall` from `".$this->db->dbprefix."catalog_items` where `catalog_id` in (".$catalog_id_str.") AND hidden=0 ");

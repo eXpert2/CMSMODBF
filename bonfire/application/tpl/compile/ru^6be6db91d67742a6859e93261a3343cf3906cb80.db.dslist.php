@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-08-20 18:37:13
+<?php /* Smarty version Smarty-3.1.7, created on 2012-08-20 20:38:47
          compiled from "db:dslist" */ ?>
 <?php /*%%SmartyHeaderCode:307744f52937bd8bb67-88223963%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '6be6db91d67742a6859e93261a3343cf3906cb80' => 
     array (
       0 => 'db:dslist',
-      1 => 1345469830,
+      1 => 1345477126,
       2 => 'db',
     ),
   ),
@@ -95,9 +95,9 @@ page/<?php echo $_smarty_tpl->tpl_vars['Page']->value->name;?>
 foreach ($_from as $_smarty_tpl->tpl_vars['s']->key => $_smarty_tpl->tpl_vars['s']->value){
 $_smarty_tpl->tpl_vars['s']->_loop = true;
 ?>
-				<b>Товар: id => <?php echo $_smarty_tpl->tpl_vars['s']->value->id;?>
+				>>>Товар: id => <?php echo $_smarty_tpl->tpl_vars['s']->value->id;?>
 ; title => <?php echo $_smarty_tpl->tpl_vars['s']->value->title;?>
-;</b><br>
+;<br>
 					<?php if ($_smarty_tpl->tpl_vars['s']->value->itemparams){?>	
 					<b>Параметры:</b><br>	
 					<?php  $_smarty_tpl->tpl_vars['param'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['param']->_loop = false;
@@ -110,7 +110,7 @@ $_smarty_tpl->tpl_vars['param']->_loop = true;
 ; <br>
 					<?php } ?>
 					<?php }?>	
-					<br>		
+						
 				<?php } ?>	
 				<?php }?>				
 

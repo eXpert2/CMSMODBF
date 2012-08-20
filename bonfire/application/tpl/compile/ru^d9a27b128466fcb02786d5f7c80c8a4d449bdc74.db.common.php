@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-08-20 18:10:33
+<?php /* Smarty version Smarty-3.1.7, created on 2012-08-20 22:51:04
          compiled from "db:common" */ ?>
 <?php /*%%SmartyHeaderCode:50204f49f281423b06-79244401%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'd9a27b128466fcb02786d5f7c80c8a4d449bdc74' => 
     array (
       0 => 'db:common',
-      1 => 1345468229,
+      1 => 1345485063,
       2 => 'db',
     ),
   ),
@@ -21,6 +21,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   array (
     'Page' => 0,
     'THEME_PATH' => 0,
+    'data' => 0,
+    'website' => 0,
   ),
   'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
@@ -105,9 +107,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 		<div class="padding">
 			<h1><?php echo $_smarty_tpl->tpl_vars['Page']->value->title;?>
  </h1>
-			<h2>// Atatonic CSS Framework</h2>
+			
+			<?php if ($_smarty_tpl->tpl_vars['data']->value){?>	
+			<h2>// <?php echo $_smarty_tpl->tpl_vars['data']->value->title;?>
+</h2>
+			<?php echo $_smarty_tpl->tpl_vars['data']->value->text;?>
 
-			<p class="intro">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			<?php if ($_smarty_tpl->tpl_vars['website']->value){?>	Веб сайт компании: <?php echo $_smarty_tpl->tpl_vars['website']->value['value'];?>
+ <br><?php }?>
+			<?php }?>	
 	
 			<?php echo $_smarty_tpl->getSubTemplate ('db:dslist', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0);?>
 
@@ -116,13 +124,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	</div>
 
 	<div id="sidebar" class="at-30">
-		<h1>Sidebar</h1>
-
-		<h2><a href="/">Main Page</a></h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut .</p>
-		
-		<h2><a href="/page/about">About Page</a></h2>
-		<p>Dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.</p>
+		<?php echo $_smarty_tpl->getSubTemplate ('db:menu', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0);?>
 		
 	</div>
 </div>

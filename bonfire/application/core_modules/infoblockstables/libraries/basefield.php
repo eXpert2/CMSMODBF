@@ -145,6 +145,12 @@ class Basefield extends Base_Controller {
 				mode : 'specific_textareas',
         		editor_selector : '".$this->field->fieldname."_mceEditor',
 				theme : 'advanced',
+				//document_base_url : '',
+                //убираем относительные пути url
+             	relative_urls : false,
+             	convert_urls : false,
+             	remove_script_host : false,
+             	remove_linebreaks : true,
 				plugins : \"autolink,lists,pagebreak,style,layer,table,save,advhr,advimage,advlink,emotions,iespell,inlinepopups,insertdatetime,preview,media,searchreplace,print,paste,directionality,fullscreen,noneditable,visualchars,nonbreaking,xhtmlxtras,template,wordcount,advlist,autosave\",
 				// Theme options
 				theme_advanced_buttons1 : 'bold,italic,underline,strikethrough,|,justifyleft,justifycenter,justifyright,justifyfull,formatselect,fontselect,fontsizeselect',
@@ -172,6 +178,12 @@ class Basefield extends Base_Controller {
          tinyMCE.init({
 				// General options
 				mode : 'specific_textareas',
+				//document_base_url : '',
+                //убираем относительные пути url
+             	relative_urls : false,
+             	convert_urls : false,
+             	remove_script_host : false,
+             	remove_linebreaks : true,
         		editor_selector : '".$this->field->fieldname."_mceEditor',
 				theme : 'advanced',
 				plugins : \"autolink,lists,advlink,iespell,inlinepopups,media,searchreplace,directionality,visualchars,nonbreaking,xhtmlxtras,wordcount,advlist,autosave\",
