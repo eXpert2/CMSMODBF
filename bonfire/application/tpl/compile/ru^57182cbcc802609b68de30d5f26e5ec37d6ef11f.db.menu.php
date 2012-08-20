@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-08-20 23:12:30
+<?php /* Smarty version Smarty-3.1.7, created on 2012-08-20 23:52:40
          compiled from "db:menu" */ ?>
 <?php /*%%SmartyHeaderCode:12371503255d818a9f7-69850025%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '57182cbcc802609b68de30d5f26e5ec37d6ef11f' => 
     array (
       0 => 'db:menu',
-      1 => 1345486348,
+      1 => 1345488759,
       2 => 'db',
     ),
   ),
@@ -24,6 +24,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 <p>Статичная страница, где только текст.</p>
 <h2><a href="/page/about">О нас</a></h2>
 <p>Статичная страница, где только текст и контактные данные.</p>
+<h2><a href="/page/news">Новости</a></h2>
+<p>Пример списка информационных блоков с постраничной навигацией.</p>
 <h2><a href="/page/static_catalog">Плакаты</a></h2>
 <p>Каталог статичный, только плакаты.</p>
 <h2><a href="/page/recursive_catalog">Рекурсивный каталог</a></h2>

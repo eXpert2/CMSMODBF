@@ -19894,3 +19894,1610 @@ ERROR - 2012-08-20 23:16:02 --> Severity: Notice  --> Undefined index: catalog Y
 ERROR - 2012-08-20 23:16:02 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
 ERROR - 2012-08-20 23:16:02 --> Severity: Notice  --> Undefined index: catalog Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
 ERROR - 2012-08-20 23:16:02 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:30:11 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined index: catalog Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:30:15 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:30:15 --> Severity: Notice  --> Undefined index: catalog Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:30:15 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:30:16 --> Severity: Notice  --> Undefined variable: catalog_items Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 120
+ERROR - 2012-08-20 23:30:16 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 327
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 327
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 327
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 327
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 327
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 314
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 314
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 314
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 314
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 314
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined index: catalog Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:30:17 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:30:17 --> Severity: Notice  --> Undefined index: catalog Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:30:17 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined index: catalog Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:30:19 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:30:19 --> Severity: Notice  --> Undefined index: catalog Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:30:19 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:34:25 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:34:25 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:34:27 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:34:28 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:34:30 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:34:32 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:34:33 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:34:33 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 513
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 520
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\catalog.php 500
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined index: catalog Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:37:54 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:37:54 --> Severity: Notice  --> Undefined index: catalog Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:37:54 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined variable: catalog_items Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 120
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 327
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 327
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 327
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 327
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 327
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 314
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 314
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 314
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 314
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 314
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined index: catalog Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:37:56 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:37:56 --> Severity: Notice  --> Undefined index: catalog Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:37:56 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 327
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 327
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 327
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 327
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 327
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 332
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 314
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 314
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 314
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 314
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\items\controllers\catalog.php 314
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined index: catalog Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:37:59 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:37:59 --> Severity: Notice  --> Undefined index: catalog Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:37:59 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:38:03 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:38:03 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:27 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:27 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:28 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:30 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:30 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:33 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:33 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:35 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:37 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:39 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:39 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:41 --> Severity: Notice  --> Undefined variable: tree Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 104
+ERROR - 2012-08-20 23:45:41 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:41 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:42 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:47 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:45:50 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:46:41 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:46:42 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:46:42 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:46:46 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:46:47 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:46:51 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:46:51 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:46:52 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:47:36 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:47:36 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:47:42 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:47:42 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:47:44 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:47:44 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:47:46 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:47:46 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:47:50 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:47:50 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:47:53 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:47:53 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:04 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:04 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:04 --> 404 Page Not Found --> 
+ERROR - 2012-08-20 23:48:16 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:16 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:16 --> 404 Page Not Found --> 
+ERROR - 2012-08-20 23:48:20 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:20 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:22 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:22 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:24 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:24 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:26 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:26 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:27 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:27 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:28 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:28 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:29 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:29 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:48:42 --> Severity: Notice  --> Undefined variable: table Y:\home\uz\bonfire\bonfire\application\core_modules\datasources\controllers\content.php 78
+ERROR - 2012-08-20 23:48:42 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\core_modules\datasources\controllers\content.php 78
+ERROR - 2012-08-20 23:48:42 --> Severity: Notice  --> Undefined variable: Records Y:\home\uz\bonfire\bonfire\application\core_modules\datasources\views\content\index.php 28
+ERROR - 2012-08-20 23:48:42 --> Severity: Notice  --> Undefined variable: PagerLinks Y:\home\uz\bonfire\bonfire\application\core_modules\datasources\views\content\index.php 43
+ERROR - 2012-08-20 23:48:47 --> Severity: Notice  --> Undefined index: AutoID Y:\home\uz\bonfire\bonfire\application\core_modules\infoblockstables\libraries\basefield.php 41
+ERROR - 2012-08-20 23:48:47 --> Severity: Notice  --> Undefined index: newscategories_titleID Y:\home\uz\bonfire\bonfire\application\core_modules\infoblockstables\libraries\basefield.php 41
+ERROR - 2012-08-20 23:48:47 --> Severity: Notice  --> Undefined property: stdClass::$recfile_id Y:\home\uz\bonfire\bonfire\application\core_modules\infoblockstables\libraries\basefield.php 329
+ERROR - 2012-08-20 23:50:57 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:50:57 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:50:59 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:50:59 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:00 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:00 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:02 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:02 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:13 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:13 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:17 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:17 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:22 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:22 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:25 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:25 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:26 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:26 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:28 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:28 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:29 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:29 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:30 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:31 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:31 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:34 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:35 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:37 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:37 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:51:43 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\index.php 60
+ERROR - 2012-08-20 23:51:43 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\index.php 60
+ERROR - 2012-08-20 23:51:43 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\index.php 60
+ERROR - 2012-08-20 23:51:43 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\index.php 60
+ERROR - 2012-08-20 23:51:43 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\index.php 60
+ERROR - 2012-08-20 23:51:43 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\index.php 60
+ERROR - 2012-08-20 23:51:44 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:51:44 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:51:44 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:51:44 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:51:44 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:51:44 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:51:44 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:51:44 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:51:44 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:23 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:23 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:23 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:23 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:23 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:23 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:23 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:23 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:23 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:25 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:52:25 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:52:25 --> 404 Page Not Found --> 
+ERROR - 2012-08-20 23:52:39 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:39 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:39 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:39 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:39 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:39 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:39 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:39 --> Severity: Notice  --> Use of undefined constant opt - assumed 'opt' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:39 --> Severity: Notice  --> Use of undefined constant title - assumed 'title' Y:\home\uz\bonfire\bonfire\application\core_modules\tpl\views\content\edit.php 55
+ERROR - 2012-08-20 23:52:40 --> 404 Page Not Found --> 
+ERROR - 2012-08-20 23:52:43 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:52:43 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:52:51 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:52:51 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:52:53 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:52:53 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:52:55 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:52:56 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:01 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:01 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:02 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:02 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:04 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:07 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:16 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:16 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:18 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:18 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:20 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:22 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:27 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:27 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:29 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:29 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:36 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:39 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:41 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:43 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:47 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:49 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:51 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:52 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:53 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:53 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:53:53 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:53 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:53:53 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:53 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:53:53 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:53:53 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:54:06 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:54:06 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:54:10 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:54:10 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:54:12 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:54:12 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:54:13 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:54:13 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:54:15 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:54:15 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:54:16 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:54:16 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:54:21 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:54:21 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:54:22 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:54:22 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:26 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:26 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:27 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:27 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:28 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:30 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:32 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:33 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:35 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:36 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:36 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:38 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:38 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:55:50 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:19 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:56:19 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:56:21 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:56:21 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:56:22 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:56:23 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:56:27 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:56:27 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:56:28 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:56:28 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:56:29 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:56:31 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:56:56 --> Severity: Notice  --> Undefined index: myuser Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:56:56 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:56:56 --> Severity: Notice  --> Undefined index: myuser Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:56:56 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:56:56 --> Severity: Notice  --> Undefined index: myuser Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:56:56 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:56:58 --> Severity: Notice  --> Undefined index: myuser Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:56:58 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:56:58 --> Severity: Notice  --> Undefined index: myuser Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:56:58 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:56:58 --> Severity: Notice  --> Undefined index: myuser Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:56:58 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:57:04 --> Severity: Notice  --> Undefined index: myuser Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:57:04 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:57:04 --> Severity: Notice  --> Undefined index: myuser Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:57:04 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:57:04 --> Severity: Notice  --> Undefined index: myuser Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:57:04 --> Severity: Warning  --> array_key_exists() expects parameter 2 to be array, null given Y:\home\uz\bonfire\bonfire\application\core_modules\subnav\controllers\subnav.php 78
+ERROR - 2012-08-20 23:57:26 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:26 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:29 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:29 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:30 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:30 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:32 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:33 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:35 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:36 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:37 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:38 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:39 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:40 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:41 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined variable: items Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 195
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:42 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:43 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:44 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:49 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:49 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:50 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:50 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:54 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:55 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:55 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 82
+ERROR - 2012-08-20 23:57:56 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:57 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:57 --> Severity: Notice  --> Undefined variable: where Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 89
+ERROR - 2012-08-20 23:57:57 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:57 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:57 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:57 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:57 --> Severity: Notice  --> Undefined property: stdClass::$sub Y:\home\uz\bonfire\bonfire\application\core_modules\catalogdata\controllers\fncatalog.php 69
+ERROR - 2012-08-20 23:57:57 --> Severity: Notice  --> Undefined index: data Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
+ERROR - 2012-08-20 23:57:57 --> Severity: Notice  --> Trying to get property of non-object Y:\home\uz\bonfire\bonfire\application\tpl\compile\ru^d9a27b128466fcb02786d5f7c80c8a4d449bdc74.db.common.php 111
