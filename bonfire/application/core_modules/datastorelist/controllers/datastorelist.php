@@ -2,7 +2,7 @@
 
 
 class Datastorelist extends Base_Controller {
-
+    // вызывается при подключении источника данных на страницу
 	public function index($context=null)
 	{
          $dstype = $this->input->get('dstype');
@@ -68,7 +68,7 @@ class Datastorelist extends Base_Controller {
 		 $md5 = md5(time());
 		 $html = "";
 		 $catalog_recursive = 1;
-		 $cataloglist =  modules::run('catalogdata/catalog/getcataloglist', array($catalog_recursive)); // выводим данные из модуля каталог
+		 $cataloglist =  modules::run('catalogdata/fncatalog/getcataloglist', array($catalog_recursive)); // выводим данные из модуля каталог
 		 if(count($cataloglist)>0 && is_array($cataloglist))
 		 {
 		 	$html .="<label for=\"catalog_id_$md5\" class=\"block\">Выберите каталог</label>";

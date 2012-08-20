@@ -76,7 +76,7 @@
   </tbody>
    <tfoot>
     <tr class="odd" >
-    	<td colspan="7"><input name="save_catalog_data" type="submit" value="Сохранить список"></td>
+    	<td colspan="7"><input name="save_catalog_items_count" type="submit" value="Пересчитать товары"><input name="save_catalog_data" type="submit" value="Сохранить список"></td>
     </tr>
   </foot>
 </table>

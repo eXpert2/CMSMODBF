@@ -21,6 +21,8 @@ class Page extends Front_Controller {
         if($query->num_rows()>0)
         {
         $PageObject = $query->first_row();
+        $PageObject->uri_string = $this->uri->uri_string();
+        $PageObject->base_url = base_url();
         $this->data['Page'] = $PageObject;
 
 
@@ -33,6 +35,7 @@ class Page extends Front_Controller {
 		{
 			foreach($dstores as $k => $s)
 			{
+				// т.е. источник доступен и по названию параметра и по параметру PageDSList.
 				$this->data[$s->name] = $dstores[$k]->data = $this->_load_datastore_by_dstype($s);
 			}
 		}
@@ -112,30 +115,28 @@ class Page extends Front_Controller {
 			break;
 
 			case"catalog":
-			//echo "Каталог:";
+			//Список каталогов
             $cataloglist = array();
 			$html = "";
-		 	$cataloglist =  modules::run('catalogdata/catalog/getcataloglistbyid', array($ds->catalog_id,$ds->recursive)); // выводим данные из модуля каталог
+		 	$cataloglist =  modules::run('catalogdata/fncatalog/getcataloglistbyid', array($ds->catalog_id,$ds->recursive)); // выводим данные из модуля каталог
             $return = array ('catalog'=>$cataloglist);
-
-            //echo "<pre>";
-            //print_r($cataloglist);
-            //echo "</pre>";
-            //exit;
-
 			break;
 
 			case"itemlist":
-            $cataloglist = array();
+            //Список товаров
+            $cataloglist = $itemlist = array();
+            //$itemlist['items'] = array();
 			$html = "";
-		 	$itemlist =  modules::run('catalogdata/catalog/getitemsbycatalogid', array($ds->catalog_id,$ds->recursive)); // выводим данные из модуля каталог
+			if($ds->catalog_by_id)
+			{
+				// override catalog_id by uri param
+				$ds->catalog_id = (int)$this->uri->segment($ds->param_uri_segment);
+			}
+		 	if($ds->catalog_id)
+		 	{
+		 	$itemlist =  modules::run('catalogdata/fncatalog/getitemsbycatalogid', array($ds)); // выводим данные из модуля каталог
+            }
             $return = array ('itemlist'=>$itemlist);
-
-            //echo "<pre>";
-            //print_r($cataloglist);
-            //echo "</pre>";
-            //exit;
-
 			break;
 		}
 

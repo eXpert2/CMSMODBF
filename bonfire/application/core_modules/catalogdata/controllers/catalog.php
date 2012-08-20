@@ -49,6 +49,21 @@ class Catalog extends Admin_Controller {
 
         }
 
+ 		if($this->input->post('save_catalog_items_count'))
+        {
+        	if(is_array($this->input->post('catalog_title')))
+             {
+             	$catalog_title = @$this->input->post('catalog_title');
+             	foreach($catalog_title as $id=>$v)
+             	{
+             		$itemscountquery = $this->db->query("select COUNT(id) as `countall` from `".$this->db->dbprefix."catalog_items` where `catalog_id`=? AND hidden=0 ",array($id));
+			        $total_items_count = $itemscountquery->first_row();
+			        $total_items_count = $total_items_count->countall;
+		            $this->db->query("UPDATE ".$this->db->dbprefix."catalogs SET item_count=? where id=?", array($total_items_count,$id));
+             	}
+             }
+        }
+
         if($this->input->post('save_catalog_data'))
         {
              if(is_array($this->input->post('catalog_title')))
@@ -224,6 +239,12 @@ class Catalog extends Admin_Controller {
 
 	public function edititemparams()
 	{
+        $this->catalog_id = $this->uri->segment(5);
+        if($this->catalog_id<=0)
+		{
+		Template::redirect('/admin/catalog/items/');
+		exit; // обязательно
+		}
         $this->load->config('tablefields');
         $this->tablefields = $this->config->item('tablefields');
 
@@ -234,7 +255,7 @@ class Catalog extends Admin_Controller {
         $dictableprefix = 'formdic';
 		$svodquery = $this->db->query("select * from  `bf_extformtables` where `name` LIKE '$dictableprefix%' ");
 
-        $this->catalog_id = $this->uri->segment(5);
+
 
         $catquery = $this->db->get_where('catalogs', array('id' =>  $this->catalog_id));
 		$catalog = $catquery->first_row();
