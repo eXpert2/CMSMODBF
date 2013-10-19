@@ -3,8 +3,12 @@
 <head>
 	<meta charset="UTF-8" />
 	<title><?php echo config_item('site.title'); ?></title>
-	<?php echo Assets::css(); ?>
-    <script src="/assets/js/extjs407/ext-all.js" type="text/javascript" ></script>
+	<?php
+	Assets::add_css( array(
+		base_url() .'assets/css/common.css'
+	));
+	echo Assets::css();
+	?>
 </head>
 <body>
 			<?php echo Template::message(); ?>

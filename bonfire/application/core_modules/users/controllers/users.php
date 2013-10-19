@@ -87,35 +87,20 @@ class Users extends Front_Controller {
 					*/
 					if (config_item('auth.do_login_redirect'))
 					{
-                        if ($this->input->post('backoffice'))
-                        {
-                            //Template::redirect('/portal.html');
-                            echo "
-                            {
-                                success: true,
-                                redirect:'/admin'
-                            }";
-                            exit;
-                        }
-                        Template::redirect($this->auth->login_destination);
+                        Template::redirect('/admin');
 					} else
 					{
                         Template::redirect('/');
 					}
 				}  else {
-                     echo "
-                            {
-                                success: false,
-                                msg:'Логин/пароль не верные.'
-                            }";
-                            exit;
+                     Template::redirect('/login');
                 }
 
 			}
 
 			//Template::redirect('/home');
-			Assets::add_css(base_url() .'assets/js/extjs407/resources/css/ext-all.css','screen');
-	        Assets::add_css(base_url() .'assets/css/app.css','screen');
+			//Assets::add_css(base_url() .'assets/js/extjs407/resources/css/ext-all.css','screen');
+	        //Assets::add_css(base_url() .'assets/css/app.css','screen');
 			Template::set('page_title', 'Login');
 			Template::render();
 		}
@@ -160,6 +145,10 @@ class Users extends Front_Controller {
 			} else
 			{
 				// We validated. Does the user actually exist?
+				if (!class_exists('User_model'))
+				{
+					$this->load->model('users/User_model', 'user_model');
+				}
 				$user = $this->user_model->find_by('email', $_POST['email']);
 
 				if (count($user) == 1)
@@ -219,6 +208,10 @@ class Users extends Front_Controller {
 	*/
 	public function reset_password($email='', $code='')
 	{
+		if (!class_exists('User_model'))
+		{
+			$this->load->model('users/User_model', 'user_model');
+		}
 		// If there is no code, then it's not a valid request.
 		if (empty($code) || empty($email))
 		{
@@ -282,6 +275,10 @@ class Users extends Front_Controller {
 
 	public function register()
 	{
+		if (!class_exists('User_model'))
+		{
+			$this->load->model('users/User_model', 'user_model');
+		}
 		// Are users even allowed to register?
 		if (!$this->config->item('auth.allow_register'))
 		{
@@ -330,6 +327,10 @@ class Users extends Front_Controller {
 
 	public function unique_email($email)
 	{
+		if (!class_exists('User_model'))
+		{
+			$this->load->model('users/user_model', 'user_model');
+		}
 		if ($this->user_model->is_unique('email', $email) === true)
 		{
 			return true;
@@ -345,6 +346,10 @@ class Users extends Front_Controller {
 
 	public function unique_username($username)
 	{
+		if (!class_exists('User_model'))
+		{
+			$this->load->model('users/User_model', 'user_model');
+		}
 		if ($this->user_model->is_unique('username', $username) === true)
 		{
 			return true;

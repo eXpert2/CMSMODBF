@@ -1,0 +1,67 @@
+body{
+margin:0;
+padding:0;
+line-height: 1.5em;
+}
+
+b{font-size: 110%;}
+em{color: red;}
+
+#topsection{
+background: #EAEAEA;
+height: 50px; /*Height of top section*/
+}
+
+#topsection h1{
+margin: 0;
+padding-top: 15px;
+}
+
+#contentwrapper{
+float: left;
+width: 100%;
+}
+
+#contentcolumn{
+margin-right: 430px; /*Set right margin to (LeftColumnWidth + RightColumnWidth)*/
+overflow:auto;
+height: auto;
+}
+
+#leftcolumn{
+float: left;
+width: 230px; /*Width of left column in percentage*/
+margin-left: -430px; /*Set left margin to -(LeftColumnWidth + RightColumnWidth)*/
+background: #E3E3E3;
+}
+
+#rightcolumn{
+float: left;
+width: 200px; /*Width of right column in pixels*/
+margin-left: -200px; /*Set margin to -(RightColumnWidth)*/
+background: #d3d3d3;
+}
+
+#footer{
+clear: left;
+width: 100%;
+background: black;
+color: #FFF;
+text-align: center;
+padding: 4px 0;
+}
+
+#footer a{
+color: #FFFF80;
+}
+
+.innertube{
+margin: 10px; /*Margins for inner DIV inside each column (to provide padding)*/
+margin-top: 0;
+}
+/* CSS Document */
+
+table.list { border:1px solid #999999; border-bottom:none; border-right:none; width:100%;}
+table.list th, td { border-bottom:1px solid #999999; border-right:1px solid #999999; padding:2px; }
+table.list th { text-align:left;}
+table.list th.center { text-align:center;}
